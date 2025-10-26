@@ -1,0 +1,325 @@
+{
+  "definitions": [
+    {
+      "name": "Baobab",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#D4823B",
+      "endColor": "#D4823B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:baobab_log",
+        "wilderwild:baobab_wood",
+        "wilderwild:stripped_baobab_log",
+        "wilderwild:stripped_baobab_wood",
+        "wilderwild:hollowed_baobab_log",
+        "wilderwild:stripped_hollowed_baobab_log",
+        "wilderwild:baobab_planks",
+        "wilderwild:baobab_stairs",
+        "wilderwild:baobab_slab",
+        "wilderwild:baobab_fence",
+        "wilderwild:baobab_fence_gate",
+        "wilderwild:baobab_door",
+        "wilderwild:baobab_trapdoor",
+        "wilderwild:baobab_pressure_plate",
+        "wilderwild:baobab_button",
+        "wilderwild:baobab_sign",
+        "wilderwild:baobab_hanging_sign",
+        "wilderwild:baobab_chest_boat",
+        "wilderwild:baobab_boat"
+      ]
+    },
+    {
+      "name": "Cypress",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#BFB084",
+      "endColor": "#BFB084",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:cypress_log",
+        "wilderwild:cypress_wood",
+        "wilderwild:stripped_cypress_log",
+        "wilderwild:stripped_cypress_wood",
+        "wilderwild:hollowed_cypress_log",
+        "wilderwild:stripped_hollowed_cypress_log",
+        "wilderwild:cypress_planks",
+        "wilderwild:cypress_stairs",
+        "wilderwild:cypress_slab",
+        "wilderwild:cypress_fence",
+        "wilderwild:cypress_fence_gate",
+        "wilderwild:cypress_door",
+        "wilderwild:cypress_trapdoor",
+        "wilderwild:cypress_pressure_plate",
+        "wilderwild:cypress_button",
+        "wilderwild:cypress_sign",
+        "wilderwild:cypress_hanging_sign",
+        "wilderwild:cypress_chest_boat",
+        "wilderwild:cypress_boat"
+      ]
+    },
+    {
+      "name": "Maple",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#8C624F",
+      "endColor": "#8C624F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:maple_log",
+        "wilderwild:maple_wood",
+        "wilderwild:stripped_maple_log",
+        "wilderwild:stripped_maple_wood",
+        "wilderwild:hollowed_maple_log",
+        "wilderwild:stripped_hollowed_maple_log",
+        "wilderwild:maple_planks",
+        "wilderwild:maple_stairs",
+        "wilderwild:maple_slab",
+        "wilderwild:maple_fence",
+        "wilderwild:maple_fence_gate",
+        "wilderwild:maple_door",
+        "wilderwild:maple_trapdoor",
+        "wilderwild:maple_pressure_plate",
+        "wilderwild:maple_button",
+        "wilderwild:maple_sign",
+        "wilderwild:maple_hanging_sign",
+        "wilderwild:maple_chest_boat",
+        "wilderwild:maple_boat"
+      ]
+    },
+    {
+      "name": "Palm",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#E8CC81",
+      "endColor": "#E8CC81",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:palm_log",
+        "wilderwild:palm_wood",
+        "wilderwild:stripped_palm_log",
+        "wilderwild:stripped_palm_wood",
+        "wilderwild:hollowed_palm_log",
+        "wilderwild:stripped_hollowed_palm_log",
+        "wilderwild:palm_planks",
+        "wilderwild:palm_stairs",
+        "wilderwild:palm_slab",
+        "wilderwild:palm_fence",
+        "wilderwild:palm_fence_gate",
+        "wilderwild:palm_door",
+        "wilderwild:palm_trapdoor",
+        "wilderwild:palm_pressure_plate",
+        "wilderwild:palm_button",
+        "wilderwild:palm_sign",
+        "wilderwild:palm_hanging_sign",
+        "wilderwild:palm_chest_boat",
+        "wilderwild:palm_boat"
+      ]
+    },
+    {
+      "name": "Willow",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#9B986D",
+      "endColor": "#9B986D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:willow_log",
+        "wilderwild:willow_wood",
+        "wilderwild:stripped_willow_log",
+        "wilderwild:stripped_willow_wood",
+        "wilderwild:hollowed_willow_log",
+        "wilderwild:stripped_hollowed_willow_log",
+        "wilderwild:willow_planks",
+        "wilderwild:willow_stairs",
+        "wilderwild:willow_slab",
+        "wilderwild:willow_fence",
+        "wilderwild:willow_fence_gate",
+        "wilderwild:willow_door",
+        "wilderwild:willow_trapdoor",
+        "wilderwild:willow_pressure_plate",
+        "wilderwild:willow_button",
+        "wilderwild:willow_sign",
+        "wilderwild:willow_hanging_sign",
+        "wilderwild:willow_chest_boat",
+        "wilderwild:willow_boat"
+      ]
+    },
+    {
+      "name": "Burning",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#D7620D",
+      "endColor": "#D7620D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pyrellium:burning_log",
+        "pyrellium:burning_wood",
+        "pyrellium:stripped_burning_log",
+        "pyrellium:stripped_burning_wood",
+        "pyrellium:burning_planks",
+        "pyrellium:burning_stairs",
+        "pyrellium:burning_slab",
+        "pyrellium:burning_fence",
+        "pyrellium:burning_fence_gate",
+        "pyrellium:burning_door",
+        "pyrellium:burning_trapdoor",
+        "pyrellium:burning_pressure_plate",
+        "pyrellium:burning_button",
+        "pyrellium:burning_sign",
+        "pyrellium:burning_hanging_sign",
+        "pyrellium:burning_chest_boat",
+        "pyrellium:burning_boat"
+      ]
+    },
+    {
+      "name": "Oak",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#A38A61",
+      "endColor": "#A38A61",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_oak_log",
+        "wilderwild:stripped_hollowed_oak_log"
+      ]
+    },
+    {
+      "name": "Spruce",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#6D5232",
+      "endColor": "#6D5232",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_spruce_log",
+        "wilderwild:stripped_hollowed_spruce_log"
+      ]
+    },
+    {
+      "name": "Birch",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#B8AC7E",
+      "endColor": "#B8AC7E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_birch_log",
+        "wilderwild:stripped_hollowed_birch_log"
+      ]
+    },
+    {
+      "name": "Jungle",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#A9846A",
+      "endColor": "#A9846A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_jungle_log",
+        "wilderwild:stripped_hollowed_jungle_log"
+      ]
+    },
+    {
+      "name": "Acacia",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#985736",
+      "endColor": "#985736",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_acacia_log",
+        "wilderwild:stripped_hollowed_acacia_log"
+      ]
+    },
+    {
+      "name": "Dark Oak",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#492D0D",
+      "endColor": "#492D0D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_dark_oak_log",
+        "wilderwild:stripped_hollowed_dark_oak_log"
+      ]
+    },
+    {
+      "name": "Mangrove",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#682817",
+      "endColor": "#682817",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_mangrove_log",
+        "wilderwild:stripped_hollowed_mangrove_log"
+      ]
+    },
+    {
+      "name": "Cherry",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#D3B8B3",
+      "endColor": "#D3B8B3",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_cherry_log",
+        "wilderwild:stripped_hollowed_cherry_log"
+      ]
+    },
+    {
+      "name": "Pale Oak",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#D8D0D0",
+      "endColor": "#D8D0D0",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_pale_oak_log",
+        "wilderwild:stripped_hollowed_pale_oak_log"
+      ]
+    },
+    {
+      "name": "Crimson",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#562539",
+      "endColor": "#562539",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_crimson_stem",
+        "wilderwild:stripped_hollowed_crimson_stem"
+      ]
+    },
+    {
+      "name": "Warped",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#336E6C",
+      "endColor": "#336E6C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:hollowed_warped_stem",
+        "wilderwild:stripped_hollowed_warped_stem"
+      ]
+    }
+  ]
+}
