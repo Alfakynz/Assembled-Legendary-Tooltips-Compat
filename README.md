@@ -4,8 +4,19 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 
 ## ✨ Compatibility
 
-- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (wood)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (wood)
+- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (most blocks)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (most blocks)
+
+## 📦 Installation
+
+You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/resourcepack/alt-compat) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
+
+## ⚙️ Requirements
+
+You also need the following mod and resource pack for it to work properly:
+
+- [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
+- [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
 
 ## 🤝 Contributing
 
@@ -21,9 +32,13 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
-- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (other blocks)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (other blocks)
+- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (Amber nylium)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Mesoglea, Gabbro)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
+
+## 📦 Modpack
+
+Feel free to include Assembled Legendary Tooltips Compat in modpacks.
 
 ## 🌐 Looking for a server? Support me at the same time!
 

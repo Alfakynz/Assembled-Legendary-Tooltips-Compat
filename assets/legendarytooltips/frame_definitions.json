@@ -296,7 +296,27 @@
       ]
     },
     {
+      "name": "Warped",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#1F9E89",
+      "endColor": "#1F9E89",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": ["wilderwild:warped_shelf_fungi"]
+    },
+    {
       "name": "Crimson",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#8C2323",
+      "endColor": "#8C2323",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": ["wilderwild:crimson_shelf_fungi"]
+    },
+    {
+      "name": "Crimson blocks",
       "index": 10,
       "image": "legendarytooltips:textures/gui/wood.png",
       "startColor": "#562539",
@@ -309,7 +329,7 @@
       ]
     },
     {
-      "name": "Warped",
+      "name": "Warped blocks",
       "index": 11,
       "image": "legendarytooltips:textures/gui/wood.png",
       "startColor": "#336E6C",
@@ -320,6 +340,191 @@
         "wilderwild:hollowed_warped_stem",
         "wilderwild:stripped_hollowed_warped_stem"
       ]
+    },
+    {
+      "name": "Deep Dark",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "30_#05625D_#29DFEB",
+      "endColor": "#052E37",
+      "bgStartColor": "30_#052A32_#111B21",
+      "bgEndColor": "#0D1217",
+      "selectors": [
+        "wilderwild:osseous_sculk",
+        "wilderwild:sculk_stairs",
+        "wilderwild:sculk_slab",
+        "wilderwild:sculk_wall",
+        "wilderwild:hanging_tendril",
+        "wilderwild:echo_glass"
+      ]
+    },
+    {
+      "name": "Mud",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#89654D",
+      "endColor": "#89654D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:cracked_mud_bricks",
+        "wilderwild:chiseled_mud_bricks"
+      ]
+    },
+    {
+      "name": "Amethyst",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#9B87BC",
+      "endColor": "#9B87BC",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["pyrellium:clear_amethyst_block"]
+    },
+    {
+      "name": "Opal",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/pyrellium.png",
+      "startColor": "#acd1f8",
+      "endColor": "#acd1f8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pyrellium:opal",
+        "pyrellium:small_opal_bud",
+        "pyrellium:medium_opal_bud",
+        "pyrellium:large_opal_bud",
+        "pyrellium:opal_cluster",
+        "pyrellium:budding_opal",
+        "pyrellium:opal_block",
+        "pyrellium:clear_opal_block"
+      ]
+    },
+    {
+      "name": "Gold",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["pyrellium:opal_spyglass", "pyrellium:opal_tiara"]
+    },
+    {
+      "name": "Iron",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["wilderwild:jellyfish_bucket", "wilderwild:crab_bucket"]
+    },
+    {
+      "name": "Mushrooms",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#FF5C4C2D",
+      "endColor": "#FF5C4C2D",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": [
+        "pyrellium:mushroom_cap",
+        "pyrellium:brown_shelf_mushroom",
+        "pyrellium:red_shelf_mushroom",
+        "pyrellium:brown_bounceshroom",
+        "pyrellium:red_bounceshroom",
+        "wilderwild:red_shelf_fungi",
+        "wilderwild:brown_shelf_fungi",
+        "wilderwild:glowshroom"
+      ]
+    },
+    {
+      "name": "Smoke and flames",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "30_#FF912307_orangered-s45-v25_#FF912307+v50_#FF912307+r25+s50-v55",
+      "endColor": "30_#FF818385-v15_#FF818385+r5+g5+v45_#FF818385-v45_#FF818385+r25+g25",
+      "bgStartColor": "#FF912307-v125-a20",
+      "bgEndColor": "auto",
+      "selectors": ["pyrellium:netherrack_mycelium"]
+    },
+    {
+      "name": "Blackstone",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#2E2835",
+      "endColor": "#2E2835",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["pyrellium:blackstone_rock"]
+    },
+    {
+      "name": "Nature",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#FF5C4C2D",
+      "endColor": "#FF5C4C2D",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": [
+        "pyrellium:dead_roots",
+        "pyrellium:dead_sprouts",
+        "pyrellium:ghostly_leaves",
+        "pyrellium:burning_leaves",
+        "pyrellium:burning_sapling",
+        "pyrellium:pyrolily",
+        "wilderwild:bush",
+        "wilderwild:clovers",
+        "wilderwild:frozen_short_grass",
+        "wilderwild:frozen_tall_grass",
+        "wilderwild:frozen_fern",
+        "wilderwild:frozen_large_fern",
+        "wilderwild:sea_whip",
+        "wilderwild:sea_anemone",
+        "wilderwild:tube_worms",
+        "wilderwild:auburn_moss_block",
+        "wilderwild:auburn_moss_carpet",
+        "wilderwild:auburn_creeping_moss",
+        "wilderwild:algae",
+        "wilderwild:plankton",
+        "wilderwild:yellow_maple_leaf_litter",
+        "wilderwild:orange_maple_leaf_litter",
+        "wilderwild:red_maple_leaf_litter",
+        "wilderwild:mycelium_growth",
+        "wilderwild:tumbleweed_plant",
+        "wilderwild:tumbleweed"
+      ]
+    },
+    {
+      "name": "Sand",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#D6CFA9",
+      "endColor": "#D6CFA9",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:scorched_sand"]
+    },
+    {
+      "name": "Red sand",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#BF6826",
+      "endColor": "#BF6826",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:scorched_red_sand"]
+    },
+    {
+      "name": "Iron plating",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#FF7D8A91",
+      "endColor": "#FF7D8A91",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:display_lantern"]
     }
   ]
 }
