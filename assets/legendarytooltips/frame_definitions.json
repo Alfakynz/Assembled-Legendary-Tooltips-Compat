@@ -525,6 +525,230 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:display_lantern"]
+    },
+    {
+      "name": "Red",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#8D2822",
+      "endColor": "#8D2822",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_red",
+        "comforts:hammock_red",
+        "soulcandles:red_soul_candle"
+      ]
+    },
+    {
+      "name": "Orange",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#CA7010",
+      "endColor": "#CA7010",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_orange",
+        "comforts:hammock_orange",
+        "soulcandles:orange_soul_candle"
+      ]
+    },
+    {
+      "name": "Yellow",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#E9BE14",
+      "endColor": "#E9BE14",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_yellow",
+        "comforts:hammock_yellow",
+        "soulcandles:yellow_soul_candle"
+      ]
+    },
+    {
+      "name": "Lime",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#4CB70E",
+      "endColor": "#4CB70E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_lime",
+        "comforts:hammock_lime",
+        "soulcandles:lime_soul_candle"
+      ]
+    },
+    {
+      "name": "Green",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#476015",
+      "endColor": "#476015",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_green",
+        "comforts:hammock_green",
+        "soulcandles:green_soul_candle"
+      ]
+    },
+    {
+      "name": "Cyan",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#187584",
+      "endColor": "#187584",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_cyan",
+        "comforts:hammock_cyan",
+        "soulcandles:cyan_soul_candle"
+      ]
+    },
+    {
+      "name": "Light Blue",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#3A9CDA",
+      "endColor": "#3A9CDA",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_light_blue",
+        "comforts:hammock_light_blue",
+        "soulcandles:light_blue_soul_candle"
+      ]
+    },
+    {
+      "name": "Blue",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#282AA8",
+      "endColor": "#282AA8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_blue",
+        "comforts:hammock_blue",
+        "soulcandles:blue_soul_candle"
+      ]
+    },
+    {
+      "name": "Purple",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#6923A1",
+      "endColor": "#6923A1",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_purple",
+        "comforts:hammock_purple",
+        "soulcandles:purple_soul_candle"
+      ]
+    },
+    {
+      "name": "Magenta",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#B63EAB",
+      "endColor": "#B63EAB",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_magenta",
+        "comforts:hammock_magenta",
+        "soulcandles:magenta_soul_candle"
+      ]
+    },
+    {
+      "name": "Pink",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#E86D9C",
+      "endColor": "#E86D9C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_pink",
+        "comforts:hammock_pink",
+        "soulcandles:pink_soul_candle"
+      ]
+    },
+    {
+      "name": "White",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#CFDDDD",
+      "endColor": "#CFDDDD",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_white",
+        "comforts:hammock_white",
+        "soulcandles:white_soul_candle"
+      ]
+    },
+    {
+      "name": "Light gray",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#7F7F74",
+      "endColor": "#7F7F74",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_light_gray",
+        "comforts:hammock_light_gray",
+        "soulcandles:light_gray_soul_candle"
+      ]
+    },
+    {
+      "name": "Gray",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#505459",
+      "endColor": "#505459",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_gray",
+        "comforts:hammock_gray",
+        "soulcandles:gray_soul_candle"
+      ]
+    },
+    {
+      "name": "Black",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#070707",
+      "endColor": "#070707",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_black",
+        "comforts:hammock_black",
+        "soulcandles:black_soul_candle"
+      ]
+    },
+    {
+      "name": "Brown",
+      "index": 15,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#623D20",
+      "endColor": "#623D20",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_brown",
+        "comforts:hammock_brown",
+        "soulcandles:brown_soul_candle"
+      ]
     }
   ]
 }
