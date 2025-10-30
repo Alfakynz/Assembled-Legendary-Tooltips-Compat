@@ -355,7 +355,30 @@
         "wilderwild:sculk_slab",
         "wilderwild:sculk_wall",
         "wilderwild:hanging_tendril",
-        "wilderwild:echo_glass"
+        "wilderwild:echo_glass",
+        "deeperdarker:sculk_tendrils",
+        "deeperdarker:sculk_vines",
+        "deeperdarker:infested_sculk",
+        "deeperdarker:sculk_jaw",
+        "deeperdarker:soul_dust",
+        "deeperdarker:soul_crystal",
+        "deeperdarker:heart_of_the_deep",
+        "deeperdarker:soul_elytra",
+        "deeperdarker:warden_carapace",
+        "deeperdarker:reinforced_echo_shard",
+        "deeperdarker:warden_upgrade_smithing_template",
+        "deeperdarker:warden_shovel",
+        "deeperdarker:warden_pickaxe",
+        "deeperdarker:warden_axe",
+        "deeperdarker:warden_hoe",
+        "deeperdarker:warden_sword",
+        "deeperdarker:warden_helmet",
+        "deeperdarker:warden_chestplate",
+        "deeperdarker:warden_leggings",
+        "deeperdarker:warden_boots",
+        "deeperdarker:sonorous_staff",
+        "deeperdarker:sculk_transmitter",
+        "deeperdarker:shattered_head"
       ]
     },
     {
@@ -474,6 +497,9 @@
         "pyrellium:burning_leaves",
         "pyrellium:burning_sapling",
         "pyrellium:pyrolily",
+        "pyrellium:burning_roots",
+        "pyrellium:burning_sprouts",
+        "pyrellium:burning_vines",
         "wilderwild:bush",
         "wilderwild:clovers",
         "wilderwild:frozen_short_grass",
@@ -493,7 +519,12 @@
         "wilderwild:red_maple_leaf_litter",
         "wilderwild:mycelium_growth",
         "wilderwild:tumbleweed_plant",
-        "wilderwild:tumbleweed"
+        "wilderwild:tumbleweed",
+        "deeperdarker:glowing_roots",
+        "deeperdarker:glowing_grass",
+        "deeperdarker:gloomy_grass",
+        "deeperdarker:gloomy_cactus",
+        "deeperdarker:ice_lily"
       ]
     },
     {
@@ -749,6 +780,16 @@
         "comforts:hammock_brown",
         "soulcandles:brown_soul_candle"
       ]
+    },
+    {
+      "name": "Pot Sherds",
+      "index": 15,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#8E4F40",
+      "endColor": "#8E4F40",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["deeperdarker:ancient_vase"]
     }
   ]
 }
