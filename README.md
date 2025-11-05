@@ -6,7 +6,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 
 - [Comforts](https://modrinth.com/project/SaCpeal4)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (sculk blocks/items)
-- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (most blocks)
+- [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (most blocks)
 
@@ -35,12 +35,12 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 🚀 Planned Features
 
-- [Pyrellium](https://modrinth.com/project/uZWcuZ4t) (Amber nylium)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Woods, Resonarium, Sculk stones, Gloomslates)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Mesoglea, Gabbro)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
+- [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
 
 ## 📦 Modpack
 
