@@ -593,7 +593,8 @@
       "selectors": [
         "comforts:sleeping_bag_red",
         "comforts:hammock_red",
-        "soulcandles:red_soul_candle"
+        "soulcandles:red_soul_candle",
+        "&rgb=11546150"
       ]
     },
     {
@@ -607,7 +608,8 @@
       "selectors": [
         "comforts:sleeping_bag_orange",
         "comforts:hammock_orange",
-        "soulcandles:orange_soul_candle"
+        "soulcandles:orange_soul_candle",
+        "&rgb=16351261"
       ]
     },
     {
@@ -621,7 +623,8 @@
       "selectors": [
         "comforts:sleeping_bag_yellow",
         "comforts:hammock_yellow",
-        "soulcandles:yellow_soul_candle"
+        "soulcandles:yellow_soul_candle",
+        "&rgb=16701501"
       ]
     },
     {
@@ -635,7 +638,8 @@
       "selectors": [
         "comforts:sleeping_bag_lime",
         "comforts:hammock_lime",
-        "soulcandles:lime_soul_candle"
+        "soulcandles:lime_soul_candle",
+        "&rgb=8439583"
       ]
     },
     {
@@ -649,7 +653,8 @@
       "selectors": [
         "comforts:sleeping_bag_green",
         "comforts:hammock_green",
-        "soulcandles:green_soul_candle"
+        "soulcandles:green_soul_candle",
+        "&rgb=6192150"
       ]
     },
     {
@@ -663,7 +668,8 @@
       "selectors": [
         "comforts:sleeping_bag_cyan",
         "comforts:hammock_cyan",
-        "soulcandles:cyan_soul_candle"
+        "soulcandles:cyan_soul_candle",
+        "&rgb=1481884"
       ]
     },
     {
@@ -677,7 +683,8 @@
       "selectors": [
         "comforts:sleeping_bag_light_blue",
         "comforts:hammock_light_blue",
-        "soulcandles:light_blue_soul_candle"
+        "soulcandles:light_blue_soul_candle",
+        "&rgb=3847130"
       ]
     },
     {
@@ -691,7 +698,8 @@
       "selectors": [
         "comforts:sleeping_bag_blue",
         "comforts:hammock_blue",
-        "soulcandles:blue_soul_candle"
+        "soulcandles:blue_soul_candle",
+        "&rgb=3949738"
       ]
     },
     {
@@ -705,7 +713,8 @@
       "selectors": [
         "comforts:sleeping_bag_purple",
         "comforts:hammock_purple",
-        "soulcandles:purple_soul_candle"
+        "soulcandles:purple_soul_candle",
+        "&rgb=8991416"
       ]
     },
     {
@@ -719,7 +728,8 @@
       "selectors": [
         "comforts:sleeping_bag_magenta",
         "comforts:hammock_magenta",
-        "soulcandles:magenta_soul_candle"
+        "soulcandles:magenta_soul_candle",
+        "&rgb=13061821"
       ]
     },
     {
@@ -733,7 +743,8 @@
       "selectors": [
         "comforts:sleeping_bag_pink",
         "comforts:hammock_pink",
-        "soulcandles:pink_soul_candle"
+        "soulcandles:pink_soul_candle",
+        "&rgb=15961002"
       ]
     },
     {
@@ -747,7 +758,8 @@
       "selectors": [
         "comforts:sleeping_bag_white",
         "comforts:hammock_white",
-        "soulcandles:white_soul_candle"
+        "soulcandles:white_soul_candle",
+        "&rgb=16383998"
       ]
     },
     {
@@ -761,7 +773,8 @@
       "selectors": [
         "comforts:sleeping_bag_light_gray",
         "comforts:hammock_light_gray",
-        "soulcandles:light_gray_soul_candle"
+        "soulcandles:light_gray_soul_candle",
+        "&rgb=10329495"
       ]
     },
     {
@@ -775,7 +788,8 @@
       "selectors": [
         "comforts:sleeping_bag_gray",
         "comforts:hammock_gray",
-        "soulcandles:gray_soul_candle"
+        "soulcandles:gray_soul_candle",
+        "&rgb=4673362"
       ]
     },
     {
@@ -789,7 +803,8 @@
       "selectors": [
         "comforts:sleeping_bag_black",
         "comforts:hammock_black",
-        "soulcandles:black_soul_candle"
+        "soulcandles:black_soul_candle",
+        "&rgb=1908001"
       ]
     },
     {
@@ -803,7 +818,8 @@
       "selectors": [
         "comforts:sleeping_bag_brown",
         "comforts:hammock_brown",
-        "soulcandles:brown_soul_candle"
+        "soulcandles:brown_soul_candle",
+        "&rgb=8606770"
       ]
     },
     {
@@ -877,6 +893,16 @@
         "pyrellium:amethyst_arrow",
         "pyrellium:opal_arrow"
       ]
+    },
+    {
+      "name": "Enderman",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#FF666666",
+      "endColor": "#FF666666",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": ["usefulbackpacks:backpack_enderchest"]
     }
   ]
 }
