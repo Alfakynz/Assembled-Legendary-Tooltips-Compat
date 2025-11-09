@@ -1,8 +1,8 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [15, 1000],
-    "min_format": [15, 0],
+    "pack_format": 9,
+    "supported_formats": [9, 1000],
+    "min_format": [9, 0],
     "max_format": [1000, 0],
     "description": "Adds compatibility between Assembled Legendary Tooltips and other mods."
   }
