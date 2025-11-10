@@ -594,7 +594,9 @@
         "comforts:sleeping_bag_red",
         "comforts:hammock_red",
         "soulcandles:red_soul_candle",
-        "&rgb=11546150"
+        "&rgb=11546150",
+        "wilderwild:red_mesoglea",
+        "wilderwild:red_nematocyst"
       ]
     },
     {
@@ -624,7 +626,9 @@
         "comforts:sleeping_bag_yellow",
         "comforts:hammock_yellow",
         "soulcandles:yellow_soul_candle",
-        "&rgb=16701501"
+        "&rgb=16701501",
+        "wilderwild:yellow_mesoglea",
+        "wilderwild:yellow_nematocyst"
       ]
     },
     {
@@ -639,7 +643,9 @@
         "comforts:sleeping_bag_lime",
         "comforts:hammock_lime",
         "soulcandles:lime_soul_candle",
-        "&rgb=8439583"
+        "&rgb=8439583",
+        "wilderwild:lime_mesoglea",
+        "wilderwild:lime_nematocyst"
       ]
     },
     {
@@ -684,7 +690,9 @@
         "comforts:sleeping_bag_light_blue",
         "comforts:hammock_light_blue",
         "soulcandles:light_blue_soul_candle",
-        "&rgb=3847130"
+        "&rgb=3847130",
+        "wilderwild:blue_pearlescent_mesoglea",
+        "wilderwild:blue_pearlescent_nematocyst"
       ]
     },
     {
@@ -699,7 +707,9 @@
         "comforts:sleeping_bag_blue",
         "comforts:hammock_blue",
         "soulcandles:blue_soul_candle",
-        "&rgb=3949738"
+        "&rgb=3949738",
+        "wilderwild:blue_mesoglea",
+        "wilderwild:blue_nematocyst"
       ]
     },
     {
@@ -714,7 +724,9 @@
         "comforts:sleeping_bag_purple",
         "comforts:hammock_purple",
         "soulcandles:purple_soul_candle",
-        "&rgb=8991416"
+        "&rgb=8991416",
+        "wilderwild:purple_pearlescent_mesoglea",
+        "wilderwild:purple_pearlescent_nematocyst"
       ]
     },
     {
@@ -744,7 +756,9 @@
         "comforts:sleeping_bag_pink",
         "comforts:hammock_pink",
         "soulcandles:pink_soul_candle",
-        "&rgb=15961002"
+        "&rgb=15961002",
+        "wilderwild:pink_mesoglea",
+        "wilderwild:pink_nematocyst"
       ]
     },
     {
@@ -873,7 +887,9 @@
         "ice",
         "packed_ice",
         "blue_ice",
-        "pyrellium:freezing_ice"
+        "pyrellium:freezing_ice",
+        "wilderwild:fragile_ice",
+        "wilderwild:icicle"
       ]
     },
     {

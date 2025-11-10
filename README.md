@@ -37,7 +37,7 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 ## 🚀 Planned Features
 
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Woods, Resonarium, Sculk stones, Gloomslates)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Mesoglea, Gabbro)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Froglight, Gabbro)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
