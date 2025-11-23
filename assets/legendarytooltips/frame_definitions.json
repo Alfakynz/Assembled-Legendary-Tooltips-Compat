@@ -187,6 +187,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:oak_beehive",
         "wilderwild:hollowed_oak_log",
         "wilderwild:stripped_hollowed_oak_log"
       ]
@@ -200,6 +201,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:spruce_beehive",
         "wilderwild:hollowed_spruce_log",
         "wilderwild:stripped_hollowed_spruce_log"
       ]
@@ -213,6 +215,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:birch_beehive",
         "wilderwild:hollowed_birch_log",
         "wilderwild:stripped_hollowed_birch_log"
       ]
@@ -226,6 +229,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:jungle_beehive",
         "wilderwild:hollowed_jungle_log",
         "wilderwild:stripped_hollowed_jungle_log"
       ]
@@ -239,6 +243,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:acacia_beehive",
         "wilderwild:hollowed_acacia_log",
         "wilderwild:stripped_hollowed_acacia_log"
       ]
@@ -252,6 +257,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:dark_oak_beehive",
         "wilderwild:hollowed_dark_oak_log",
         "wilderwild:stripped_hollowed_dark_oak_log"
       ]
@@ -265,6 +271,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:mangrove_beehive",
         "wilderwild:hollowed_mangrove_log",
         "wilderwild:stripped_hollowed_mangrove_log"
       ]
@@ -278,6 +285,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:cherry_beehive",
         "wilderwild:hollowed_cherry_log",
         "wilderwild:stripped_hollowed_cherry_log"
       ]
@@ -291,19 +299,47 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "friendsandfoes:pale_oak_beehive",
         "wilderwild:hollowed_pale_oak_log",
         "wilderwild:stripped_hollowed_pale_oak_log"
       ]
     },
     {
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#B3A95B",
+      "endColor": "#B3A95B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["friendsandfoes:bamboo_beehive"]
+    },
+    {
+      "name": "Crimson",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#562539",
+      "endColor": "#562539",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:crimson_beehive",
+        "wilderwild:hollowed_crimson_stem",
+        "wilderwild:stripped_hollowed_crimson_stem"
+      ]
+    },
+    {
       "name": "Warped",
-      "index": 4,
-      "image": "legendarytooltips:textures/gui/2.png",
-      "startColor": "#1F9E89",
-      "endColor": "#1F9E89",
-      "bgStartColor": "#F0160A00",
-      "bgEndColor": "#F0160A00",
-      "selectors": ["wilderwild:warped_shelf_fungi"]
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#336E6C",
+      "endColor": "#336E6C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:warped_beehive",
+        "wilderwild:hollowed_warped_stem",
+        "wilderwild:stripped_hollowed_warped_stem"
+      ]
     },
     {
       "name": "Crimson",
@@ -316,30 +352,14 @@
       "selectors": ["wilderwild:crimson_shelf_fungi"]
     },
     {
-      "name": "Crimson blocks",
-      "index": 10,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#562539",
-      "endColor": "#562539",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:hollowed_crimson_stem",
-        "wilderwild:stripped_hollowed_crimson_stem"
-      ]
-    },
-    {
-      "name": "Warped blocks",
-      "index": 11,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#336E6C",
-      "endColor": "#336E6C",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:hollowed_warped_stem",
-        "wilderwild:stripped_hollowed_warped_stem"
-      ]
+      "name": "Warped",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#1F9E89",
+      "endColor": "#1F9E89",
+      "bgStartColor": "#F0160A00",
+      "bgEndColor": "#F0160A00",
+      "selectors": ["wilderwild:warped_shelf_fungi"]
     },
     {
       "name": "Deep Dark",
@@ -454,6 +474,61 @@
       "selectors": ["wilderwild:jellyfish_bucket", "wilderwild:crab_bucket"]
     },
     {
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#C77153",
+      "endColor": "#C77153",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:copper_button",
+        "friendsandfoes:waxed_copper_button",
+        "friendsandfoes:waxed_lightning_rod"
+      ]
+    },
+    {
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#BA8277",
+      "endColor": "#BA8277",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:exposed_copper_button",
+        "friendsandfoes:waxed_exposed_copper_button",
+        "friendsandfoes:exposed_lightning_rod",
+        "friendsandfoes:waxed_exposed_lightning_rod"
+      ]
+    },
+    {
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#69A077",
+      "endColor": "#69A077",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:weathered_copper_button",
+        "friendsandfoes:waxed_weathered_copper_button",
+        "friendsandfoes:weathered_lightning_rod",
+        "friendsandfoes:waxed_weathered_lightning_rod"
+      ]
+    },
+    {
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#59B292",
+      "endColor": "#59B292",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:oxidized_copper_button",
+        "friendsandfoes:waxed_oxidized_copper_button",
+        "friendsandfoes:oxidized_lightning_rod",
+        "friendsandfoes:waxed_oxidized_lightning_rod"
+      ]
+    },
+    {
       "name": "Mushrooms",
       "index": 3,
       "image": "legendarytooltips:textures/gui/2.png",
@@ -480,7 +555,11 @@
       "endColor": "30_#FF818385-v15_#FF818385+r5+g5+v45_#FF818385-v45_#FF818385+r25+g25",
       "bgStartColor": "#FF912307-v125-a20",
       "bgEndColor": "auto",
-      "selectors": ["pyrellium:netherrack_mycelium"]
+      "selectors": [
+        "friendsandfoes:wildfire_crown",
+        "friendsandfoes:wildfire_crown_fragment",
+        "pyrellium:netherrack_mycelium"
+      ]
     },
     {
       "name": "Amber",
@@ -929,6 +1008,19 @@
       "bgStartColor": "auto",
       "bgEndColor": "auto",
       "selectors": ["customizableelytra:elytra_wing"]
+    },
+    {
+      "name": "Holy",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "15_#FFFFFADB-v20+s35_#FFFFFADB+v30-s20",
+      "endColor": "15_#FFFFDFAD-v20+s35_#FFFFDFAD+v30-s20",
+      "bgStartColor": "#D8FFFADB-v245",
+      "bgEndColor": "#F4FFDFAD-v210+s90",
+      "selectors": [
+        "friendsandfoes:totem_of_freezing",
+        "friendsandfoes:totem_of_illusion"
+      ]
     }
   ]
 }
