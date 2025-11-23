@@ -5,6 +5,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 ## ✨ Compatibility
 
 - [Comforts](https://modrinth.com/project/SaCpeal4)
+- [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (sculk blocks/items)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)

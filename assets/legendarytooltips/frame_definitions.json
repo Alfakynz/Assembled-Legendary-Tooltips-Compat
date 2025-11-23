@@ -919,6 +919,16 @@
       "bgStartColor": "#F0160A00",
       "bgEndColor": "#F0160A00",
       "selectors": ["usefulbackpacks:backpack_enderchest"]
+    },
+    {
+      "name": "Elite equipment",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#A26BE0",
+      "endColor": "#A26BE0",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["customizableelytra:elytra_wing"]
     }
   ]
 }
