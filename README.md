@@ -15,7 +15,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 
 ## 📦 Installation
 
-You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/resourcepack/alt-compat) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
+You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
 
 ## ⚙️ Requirements
 
@@ -23,6 +23,20 @@ You also need the following mod and resource pack for it to work properly:
 
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
 - [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
+
+## 🚀 Planned Features
+
+- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Woods, Resonarium, Sculk stones, Gloomslates)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Froglight, Gabbro)
+- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
+- [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
+
+## 🙏 Credits
+
+- Thanks to [Grend](https://github.com/AHilyard) for [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
+- Thanks to [Teppy381](https://modrinth.com/user/sbPLRjEy) for [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
+
+And a big thanks as well to every other mod creator!! Your mods make the game even more amazing.
 
 ## 🤝 Contributing
 
@@ -35,13 +49,6 @@ If you'd like to contribute:
 - Make sure your changes follow the resource pack structure
 
 If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
-
-## 🚀 Planned Features
-
-- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Woods, Resonarium, Sculk stones, Gloomslates)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Froglight, Gabbro)
-- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
-- [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 
 ## 📦 Modpack
 
