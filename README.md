@@ -11,7 +11,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (most blocks)
+- [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
 ## 📦 Installation
 
@@ -27,7 +27,6 @@ You also need the following mod and resource pack for it to work properly:
 ## 🚀 Planned Features
 
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Woods, Resonarium, Sculk stones, Gloomslates)
-- [Wilder Wild](https://modrinth.com/project/AtHRJSUW) (Mossy mud, Froglight, Gabbro)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 

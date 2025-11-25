@@ -415,6 +415,62 @@
       ]
     },
     {
+      "name": "Mossy Mud",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#89654D",
+      "endColor": "#89654D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:mossy_mud_bricks",
+        "wilderwild:mossy_mud_brick_stairs",
+        "wilderwild:mossy_mud_brick_slab",
+        "wilderwild:mossy_mud_brick_wall"
+      ]
+    },
+    {
+      "name": "Gabbro",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#433731",
+      "endColor": "#433731",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:gabbro",
+        "wilderwild:geyser",
+        "wilderwild:gabbro_stairs",
+        "wilderwild:gabbro_slab",
+        "wilderwild:gabbro_wall",
+        "wilderwild:polished_gabbro",
+        "wilderwild:polished_gabbro_stairs",
+        "wilderwild:polished_gabbro_slab",
+        "wilderwild:polished_gabbro_wall",
+        "wilderwild:gabbro_bricks",
+        "wilderwild:cracked_gabbro_bricks",
+        "wilderwild:gabbro_brick_stairs",
+        "wilderwild:gabbro_brick_slab",
+        "wilderwild:gabbro_brick_wall",
+        "wilderwild:chiseled_gabbro_bricks"
+      ]
+    },
+    {
+      "name": "Mossy Gabbro",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#433731",
+      "endColor": "#433731",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:mossy_gabbro_bricks",
+        "wilderwild:mossy_gabbro_brick_stairs",
+        "wilderwild:mossy_gabbro_brick_slab",
+        "wilderwild:mossy_gabbro_brick_wall"
+      ]
+    },
+    {
       "name": "Amethyst",
       "index": 13,
       "image": "legendarytooltips:textures/gui/1.png",
@@ -556,6 +612,10 @@
       "bgStartColor": "#FF912307-v125-a20",
       "bgEndColor": "auto",
       "selectors": [
+        "torch",
+        "soul_torch",
+        "campfire",
+        "soul_campfire",
         "friendsandfoes:wildfire_crown",
         "friendsandfoes:wildfire_crown_fragment",
         "pyrellium:netherrack_mycelium"
@@ -673,9 +733,7 @@
         "comforts:sleeping_bag_red",
         "comforts:hammock_red",
         "soulcandles:red_soul_candle",
-        "&rgb=11546150",
-        "wilderwild:red_mesoglea",
-        "wilderwild:red_nematocyst"
+        "&rgb=11546150"
       ]
     },
     {
@@ -705,9 +763,7 @@
         "comforts:sleeping_bag_yellow",
         "comforts:hammock_yellow",
         "soulcandles:yellow_soul_candle",
-        "&rgb=16701501",
-        "wilderwild:yellow_mesoglea",
-        "wilderwild:yellow_nematocyst"
+        "&rgb=16701501"
       ]
     },
     {
@@ -722,9 +778,7 @@
         "comforts:sleeping_bag_lime",
         "comforts:hammock_lime",
         "soulcandles:lime_soul_candle",
-        "&rgb=8439583",
-        "wilderwild:lime_mesoglea",
-        "wilderwild:lime_nematocyst"
+        "&rgb=8439583"
       ]
     },
     {
@@ -769,9 +823,7 @@
         "comforts:sleeping_bag_light_blue",
         "comforts:hammock_light_blue",
         "soulcandles:light_blue_soul_candle",
-        "&rgb=3847130",
-        "wilderwild:blue_pearlescent_mesoglea",
-        "wilderwild:blue_pearlescent_nematocyst"
+        "&rgb=3847130"
       ]
     },
     {
@@ -786,9 +838,7 @@
         "comforts:sleeping_bag_blue",
         "comforts:hammock_blue",
         "soulcandles:blue_soul_candle",
-        "&rgb=3949738",
-        "wilderwild:blue_mesoglea",
-        "wilderwild:blue_nematocyst"
+        "&rgb=3949738"
       ]
     },
     {
@@ -803,9 +853,7 @@
         "comforts:sleeping_bag_purple",
         "comforts:hammock_purple",
         "soulcandles:purple_soul_candle",
-        "&rgb=8991416",
-        "wilderwild:purple_pearlescent_mesoglea",
-        "wilderwild:purple_pearlescent_nematocyst"
+        "&rgb=8991416"
       ]
     },
     {
@@ -835,9 +883,7 @@
         "comforts:sleeping_bag_pink",
         "comforts:hammock_pink",
         "soulcandles:pink_soul_candle",
-        "&rgb=15961002",
-        "wilderwild:pink_mesoglea",
-        "wilderwild:pink_nematocyst"
+        "&rgb=15961002"
       ]
     },
     {
@@ -923,7 +969,7 @@
       "endColor": "#8E4F40",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["deeperdarker:ancient_vase"]
+      "selectors": ["flower_pot", "deeperdarker:ancient_vase"]
     },
     {
       "name": "Silk",
@@ -1020,6 +1066,107 @@
       "selectors": [
         "friendsandfoes:totem_of_freezing",
         "friendsandfoes:totem_of_illusion"
+      ]
+    },
+    {
+      "name": "Ochre Froglight",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#F7DF92",
+      "endColor": "#F7DF92",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["ochre_froglight", "wilderwild:ochre_froglight_goop"]
+    },
+    {
+      "name": "Pearlescent Froglight",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#D4BFC8",
+      "endColor": "#D4BFC8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pearlescent_froglight",
+        "wilderwild:pearlescent_froglight_goop",
+        "wilderwild:purple_pearlescent_mesoglea",
+        "wilderwild:purple_pearlescent_nematocyst"
+      ]
+    },
+    {
+      "name": "Verdant Froglight",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#BDE1B7",
+      "endColor": "#BDE1B7",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["verdant_froglight", "wilderwild:verdant_froglight_goop"]
+    },
+    {
+      "name": "Blue Pearlescent Mesoglea",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#D6EBF4",
+      "endColor": "#D6EBF4",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:blue_pearlescent_mesoglea",
+        "wilderwild:blue_pearlescent_nematocyst"
+      ]
+    },
+    {
+      "name": "Blue Mesoglea",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#6C7CFF",
+      "endColor": "#6C7CFF",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:blue_mesoglea", "wilderwild:blue_nematocyst"]
+    },
+    {
+      "name": "Lime Mesoglea",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#27E510",
+      "endColor": "#27E510",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:lime_mesoglea", "wilderwild:lime_nematocyst"]
+    },
+    {
+      "name": "Pink Mesoglea",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#F09ADA",
+      "endColor": "#F09ADA",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:pink_mesoglea", "wilderwild:pink_nematocyst"]
+    },
+    {
+      "name": "Red Mesoglea",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#FD4C31",
+      "endColor": "#FD4C31",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:red_mesoglea", "wilderwild:red_nematocyst"]
+    },
+    {
+      "name": "Yellow Mesoglea",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/wilderwild.png",
+      "startColor": "#FFF0AA",
+      "endColor": "#FFF0AA",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:yellow_mesoglea",
+        "wilderwild:yellow_nematocyst"
       ]
     }
   ]
