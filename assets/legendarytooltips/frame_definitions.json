@@ -179,6 +179,61 @@
       ]
     },
     {
+      "name": "Bloom",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#90AAA8",
+      "endColor": "#90AAA8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:blooming_stem",
+        "deeperdarker:stripped_blooming_stem",
+        "deeperdarker:bloom_planks",
+        "deeperdarker:bloom_stairs",
+        "deeperdarker:bloom_slab",
+        "deeperdarker:bloom_fence",
+        "deeperdarker:bloom_fence_gate",
+        "deeperdarker:bloom_door",
+        "deeperdarker:bloom_trapdoor",
+        "deeperdarker:bloom_pressure_plate",
+        "deeperdarker:bloom_button",
+        "deeperdarker:bloom_boat",
+        "deeperdarker:bloom_chest_boat",
+        "deeperdarker:bloom_sign",
+        "deeperdarker:bloom_hanging_sign"
+      ]
+    },
+    {
+      "name": "Echo",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/wood_compat.png",
+      "startColor": "#B0BA99",
+      "endColor": "#B0BA99",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:enriched_echo_log",
+        "deeperdarker:echo_log",
+        "deeperdarker:echo_wood",
+        "deeperdarker:stripped_echo_log",
+        "deeperdarker:stripped_echo_wood",
+        "deeperdarker:echo_planks",
+        "deeperdarker:echo_stairs",
+        "deeperdarker:echo_slab",
+        "deeperdarker:echo_fence",
+        "deeperdarker:echo_fence_gate",
+        "deeperdarker:echo_door",
+        "deeperdarker:echo_trapdoor",
+        "deeperdarker:echo_pressure_plate",
+        "deeperdarker:echo_button",
+        "deeperdarker:echo_boat",
+        "deeperdarker:echo_chest_boat",
+        "deeperdarker:echo_sign",
+        "deeperdarker:echo_hanging_sign"
+      ]
+    },
+    {
       "name": "Oak",
       "index": 0,
       "image": "legendarytooltips:textures/gui/wood.png",
@@ -305,6 +360,7 @@
       ]
     },
     {
+      "name": "Bamboo",
       "index": 9,
       "image": "legendarytooltips:textures/gui/wood.png",
       "startColor": "#B3A95B",
@@ -342,7 +398,7 @@
       ]
     },
     {
-      "name": "Crimson",
+      "name": "Crimson Mushroom",
       "index": 5,
       "image": "legendarytooltips:textures/gui/2.png",
       "startColor": "#8C2323",
@@ -352,7 +408,7 @@
       "selectors": ["wilderwild:crimson_shelf_fungi"]
     },
     {
-      "name": "Warped",
+      "name": "Warped Mushroom",
       "index": 4,
       "image": "legendarytooltips:textures/gui/2.png",
       "startColor": "#1F9E89",
