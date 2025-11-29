@@ -27,8 +27,9 @@ You also need the following mod and resource pack for it to work properly:
 
 ## 🚀 Planned Features
 
+- [Aether](https://modrinth.com/project/YhmgMVyu)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Resonarium, Sculk stones, Gloomslates)
-- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (null blocks/flesh/brimstone)
+- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh, Brimstone)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 
 ## 🙏 Credits
