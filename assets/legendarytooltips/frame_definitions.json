@@ -69,6 +69,23 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "biomesoplenty:maple_log",
+        "biomesoplenty:maple_wood",
+        "biomesoplenty:stripped_maple_log",
+        "biomesoplenty:stripped_maple_wood",
+        "biomesoplenty:maple_planks",
+        "biomesoplenty:maple_stairs",
+        "biomesoplenty:maple_slab",
+        "biomesoplenty:maple_fence",
+        "biomesoplenty:maple_fence_gate",
+        "biomesoplenty:maple_door",
+        "biomesoplenty:maple_trapdoor",
+        "biomesoplenty:maple_pressure_plate",
+        "biomesoplenty:maple_button",
+        "biomesoplenty:maple_sign",
+        "biomesoplenty:maple_hanging_sign",
+        "biomesoplenty:maple_chest_boat",
+        "biomesoplenty:maple_boat",
         "wilderwild:maple_log",
         "wilderwild:maple_wood",
         "wilderwild:stripped_maple_log",
@@ -99,6 +116,23 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "biomesoplenty:palm_log",
+        "biomesoplenty:palm_wood",
+        "biomesoplenty:stripped_palm_log",
+        "biomesoplenty:stripped_palm_wood",
+        "biomesoplenty:palm_planks",
+        "biomesoplenty:palm_stairs",
+        "biomesoplenty:palm_slab",
+        "biomesoplenty:palm_fence",
+        "biomesoplenty:palm_fence_gate",
+        "biomesoplenty:palm_door",
+        "biomesoplenty:palm_trapdoor",
+        "biomesoplenty:palm_pressure_plate",
+        "biomesoplenty:palm_button",
+        "biomesoplenty:palm_sign",
+        "biomesoplenty:palm_hanging_sign",
+        "biomesoplenty:palm_chest_boat",
+        "biomesoplenty:palm_boat",
         "wilderwild:palm_log",
         "wilderwild:palm_wood",
         "wilderwild:stripped_palm_log",
@@ -129,6 +163,23 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "biomesoplenty:willow_log",
+        "biomesoplenty:willow_wood",
+        "biomesoplenty:stripped_willow_log",
+        "biomesoplenty:stripped_willow_wood",
+        "biomesoplenty:willow_planks",
+        "biomesoplenty:willow_stairs",
+        "biomesoplenty:willow_slab",
+        "biomesoplenty:willow_fence",
+        "biomesoplenty:willow_fence_gate",
+        "biomesoplenty:willow_door",
+        "biomesoplenty:willow_trapdoor",
+        "biomesoplenty:willow_pressure_plate",
+        "biomesoplenty:willow_button",
+        "biomesoplenty:willow_sign",
+        "biomesoplenty:willow_hanging_sign",
+        "biomesoplenty:willow_chest_boat",
+        "biomesoplenty:willow_boat",
         "wilderwild:willow_log",
         "wilderwild:willow_wood",
         "wilderwild:stripped_willow_log",
@@ -426,12 +477,6 @@
       "bgStartColor": "30_#052A32_#111B21",
       "bgEndColor": "#0D1217",
       "selectors": [
-        "wilderwild:osseous_sculk",
-        "wilderwild:sculk_stairs",
-        "wilderwild:sculk_slab",
-        "wilderwild:sculk_wall",
-        "wilderwild:hanging_tendril",
-        "wilderwild:echo_glass",
         "deeperdarker:sculk_tendrils",
         "deeperdarker:sculk_vines",
         "deeperdarker:infested_sculk",
@@ -454,7 +499,13 @@
         "deeperdarker:warden_boots",
         "deeperdarker:sonorous_staff",
         "deeperdarker:sculk_transmitter",
-        "deeperdarker:shattered_head"
+        "deeperdarker:shattered_head",
+        "wilderwild:osseous_sculk",
+        "wilderwild:sculk_stairs",
+        "wilderwild:sculk_slab",
+        "wilderwild:sculk_wall",
+        "wilderwild:hanging_tendril",
+        "wilderwild:echo_glass"
       ]
     },
     {
@@ -527,6 +578,59 @@
       ]
     },
     {
+      "name": "Blackstone",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#2E2835",
+      "endColor": "#2E2835",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["pyrellium:blackstone_rock"]
+    },
+    {
+      "name": "Stone",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#A6A6A6",
+      "endColor": "#A6A6A6",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["pyrellium:headstone"]
+    },
+    {
+      "name": "End Stone",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#DEE5A5",
+      "endColor": "#DEE5A5",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:algal_end_stone",
+        "biomesoplenty:unmapped_end_stone"
+      ]
+    },
+    {
+      "name": "Sand",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#D6CFA9",
+      "endColor": "#D6CFA9",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:scorched_sand"]
+    },
+    {
+      "name": "Red sand",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#BF6826",
+      "endColor": "#BF6826",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:scorched_red_sand"]
+    },
+    {
       "name": "Amethyst",
       "index": 13,
       "image": "legendarytooltips:textures/gui/1.png",
@@ -563,7 +667,7 @@
       "endColor": "#e5dfd6",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["minecraft:quartz", "pyrellium:quartz_crystal"]
+      "selectors": ["quartz", "pyrellium:quartz_crystal"]
     },
     {
       "name": "Gold",
@@ -583,7 +687,12 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["wilderwild:jellyfish_bucket", "wilderwild:crab_bucket"]
+      "selectors": [
+        "biomesoplenty:blood_bucket",
+        "biomesoplenty:liquid_null_bucket",
+        "wilderwild:crab_bucket",
+        "wilderwild:jellyfish_bucket"
+      ]
     },
     {
       "index": 0,
@@ -649,6 +758,8 @@
       "bgStartColor": "#F0160A00",
       "bgEndColor": "#F0160A00",
       "selectors": [
+        "biomesoplenty:toadstool_block",
+        "biomesoplenty:glowshroom_block",
         "pyrellium:mushroom_cap",
         "pyrellium:brown_shelf_mushroom",
         "pyrellium:red_shelf_mushroom",
@@ -693,16 +804,6 @@
       ]
     },
     {
-      "name": "Blackstone",
-      "index": 10,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#2E2835",
-      "endColor": "#2E2835",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["pyrellium:blackstone_rock"]
-    },
-    {
       "name": "Nature",
       "index": 2,
       "image": "legendarytooltips:textures/gui/2.png",
@@ -711,6 +812,39 @@
       "bgStartColor": "#F0160A00",
       "bgEndColor": "#F0160A00",
       "selectors": [
+        "biomesoplenty:mossy_black_sand",
+        "biomesoplenty:glowing_moss_block",
+        "biomesoplenty:glowing_moss_carpet",
+        "biomesoplenty:spanish_moss",
+        "biomesoplenty:sprout",
+        "biomesoplenty:bush",
+        "biomesoplenty:high_grass",
+        "biomesoplenty:high_grass_plant",
+        "biomesoplenty:clover",
+        "biomesoplenty:huge_clover_petal",
+        "biomesoplenty:huge_lily_pad",
+        "biomesoplenty:waterlily",
+        "biomesoplenty:dune_grass",
+        "biomesoplenty:desert_grass",
+        "biomesoplenty:dead_grass",
+        "biomesoplenty:tundra_shrub",
+        "biomesoplenty:enderphyte",
+        "biomesoplenty:lumaloop",
+        "biomesoplenty:lumaloop_plant",
+        "biomesoplenty:barley",
+        "biomesoplenty:sea_oats",
+        "biomesoplenty:cattail",
+        "biomesoplenty:reed",
+        "biomesoplenty:watergrass",
+        "biomesoplenty:tiny_cactus",
+        "biomesoplenty:bramble",
+        "biomesoplenty:bramble_leaves",
+        "deeperdarker:blooming_moss_block",
+        "deeperdarker:glowing_roots",
+        "deeperdarker:glowing_grass",
+        "deeperdarker:gloomy_grass",
+        "deeperdarker:gloomy_cactus",
+        "deeperdarker:ice_lily",
         "pyrellium:dead_roots",
         "pyrellium:dead_sprouts",
         "pyrellium:ghostly_leaves",
@@ -739,33 +873,8 @@
         "wilderwild:red_maple_leaf_litter",
         "wilderwild:mycelium_growth",
         "wilderwild:tumbleweed_plant",
-        "wilderwild:tumbleweed",
-        "deeperdarker:glowing_roots",
-        "deeperdarker:glowing_grass",
-        "deeperdarker:gloomy_grass",
-        "deeperdarker:gloomy_cactus",
-        "deeperdarker:ice_lily"
+        "wilderwild:tumbleweed"
       ]
-    },
-    {
-      "name": "Sand",
-      "index": 8,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#D6CFA9",
-      "endColor": "#D6CFA9",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["wilderwild:scorched_sand"]
-    },
-    {
-      "name": "Red sand",
-      "index": 9,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#BF6826",
-      "endColor": "#BF6826",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["wilderwild:scorched_red_sand"]
     },
     {
       "name": "Iron plating",
@@ -1025,10 +1134,10 @@
       "endColor": "#8E4F40",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["flower_pot", "deeperdarker:ancient_vase"]
+      "selectors": ["flower_pot", "%Potted", "deeperdarker:ancient_vase"]
     },
     {
-      "name": "Silk",
+      "name": "Silk and webs",
       "index": 1,
       "image": "legendarytooltips:textures/gui/minecraft.png",
       "startColor": "#dbdbdb",
@@ -1038,20 +1147,17 @@
       "selectors": [
         "cobweb",
         "string",
+        "biomesoplenty:glowworm_silk",
+        "biomesoplenty:glowworm_silk_strand",
+        "biomesoplenty:spider_egg",
+        "biomesoplenty:hanging_cobweb",
+        "biomesoplenty:hanging_cobweb_strand",
+        "biomesoplenty:stringy_cobweb",
+        "biomesoplenty:webbing",
         "pyrellium:silk_block",
         "pyrellium:silk_carpet",
         "pyrellium:hanging_silk"
       ]
-    },
-    {
-      "name": "Stone",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#A6A6A6",
-      "endColor": "#A6A6A6",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["pyrellium:headstone"]
     },
     {
       "name": "Ice",
