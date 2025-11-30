@@ -32,11 +32,9 @@ jobs:
           draft: true
           prerelease: false
           body: |
-            ## 🔄 Changes
             -
 
-            ## 📦 Installation
-            You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/resourcepack/alt-compat) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
+            **Full Changelog**: https://github.com/Alfakynz/Assembled-Legendary-Tooltips-Compat/compare/v1.x.x...v1.x.x
 
       - name: Upload ZIP to the release
         uses: actions/upload-release-asset@v1
