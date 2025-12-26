@@ -7,7 +7,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (most of blocks/items)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
-- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (sculk blocks/items/woods)
+- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (most of blocks/items)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
@@ -28,7 +28,7 @@ You also need the following mod and resource pack for it to work properly:
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu)
-- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Resonarium, Sculk stones, Gloomslates)
+- [Deeper and Darker](https://modrinth.com/project/fnAffV0n) (Resonarium)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh, Brimstone)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
