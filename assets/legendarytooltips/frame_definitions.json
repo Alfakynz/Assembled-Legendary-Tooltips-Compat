@@ -1135,6 +1135,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "aether:red_cape",
         "comforts:sleeping_bag_red",
         "comforts:hammock_red",
         "deeperdarker:red_sculk_transmitter",
@@ -1167,6 +1168,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "aether:yellow_cape",
         "comforts:sleeping_bag_yellow",
         "comforts:hammock_yellow",
         "deeperdarker:yellow_sculk_transmitter",
@@ -1247,6 +1249,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "aether:blue_cape",
         "comforts:sleeping_bag_blue",
         "comforts:hammock_blue",
         "deeperdarker:blue_sculk_transmitter",
@@ -1311,6 +1314,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "aether:white_cape",
         "comforts:sleeping_bag_white",
         "comforts:hammock_white",
         "deeperdarker:white_sculk_transmitter",
@@ -1382,6 +1386,27 @@
         "&rgb=8606770"
       ]
     },
+
+    {
+      "name": "Netherite",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["aether:netherite_gloves"]
+    },
+    {
+      "name": "Diamond",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": ["aether:diamond_gloves"]
+    },
     {
       "name": "Gold",
       "index": 2,
@@ -1390,7 +1415,13 @@
       "endColor": "auto",
       "bgStartColor": "auto",
       "bgEndColor": "auto",
-      "selectors": ["pyrellium:opal_spyglass", "pyrellium:opal_tiara"]
+      "selectors": [
+        "aether:golden_ring",
+        "aether:golden_pendant",
+        "aether:golden_gloves",
+        "pyrellium:opal_spyglass",
+        "pyrellium:opal_tiara"
+      ]
     },
     {
       "name": "Iron",
@@ -1401,6 +1432,9 @@
       "bgStartColor": "auto",
       "bgEndColor": "auto",
       "selectors": [
+        "aether:iron_ring",
+        "aether:iron_pendant",
+        "aether:iron_gloves",
         "biomesoplenty:blood_bucket",
         "biomesoplenty:liquid_null_bucket",
         "wilderwild:crab_bucket",
@@ -1420,6 +1454,7 @@
         "soul_torch",
         "campfire",
         "soul_campfire",
+        "aether:ambrosium_torch",
         "friendsandfoes:wildfire_crown",
         "friendsandfoes:wildfire_crown_fragment",
         "pyrellium:netherrack_mycelium"
@@ -1443,7 +1478,11 @@
       "endColor": "#FF7D8A91",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["wilderwild:display_lantern"]
+      "selectors": [
+        "goat_horn",
+        "wilderwild:copper_horn",
+        "wilderwild:display_lantern"
+      ]
     },
     {
       "name": "Holy",
@@ -1454,6 +1493,7 @@
       "bgStartColor": "#D8FFFADB-v245",
       "bgEndColor": "#F4FFDFAD-v210+s90",
       "selectors": [
+        "aether:white_apple",
         "friendsandfoes:totem_of_freezing",
         "friendsandfoes:totem_of_illusion"
       ]
@@ -1518,6 +1558,13 @@
       "bgStartColor": "#F0160A00",
       "bgEndColor": "#F0160A00",
       "selectors": [
+        "bush",
+        "firefly_bush",
+        "leaf_litter",
+        "short_dry_grass",
+        "tall_dry_grass",
+        "aether:berry_bush",
+        "aether:berry_bush_stem",
         "biomesoplenty:mossy_black_sand",
         "biomesoplenty:glowing_moss_block",
         "biomesoplenty:glowing_moss_carpet",
@@ -1630,6 +1677,21 @@
       "selectors": ["wilderwild:crimson_shelf_fungi"]
     },
     {
+      "name": "Redstone",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/2.png",
+      "startColor": "#FF7D8A91",
+      "endColor": "#FF7D8A91",
+      "bgStartColor": "#F07D8A91-v125+s35",
+      "bgEndColor": "#F47D8A91-v120+s55",
+      "selectors": [
+        "immersive_armors:steampunk_boots",
+        "immersive_armors:steampunk_leggings",
+        "immersive_armors:steampunk_chestplate",
+        "immersive_armors:steampunk_helmet"
+      ]
+    },
+    {
       "name": "Enderman",
       "index": 10,
       "image": "legendarytooltips:textures/gui/2.png",
@@ -1714,6 +1776,8 @@
         "ice",
         "packed_ice",
         "blue_ice",
+        "aether:ice_ring",
+        "aether:ice_pendant",
         "pyrellium:freezing_ice",
         "wilderwild:fragile_ice",
         "wilderwild:icicle"
@@ -1733,6 +1797,7 @@
         "arrow",
         "spectral_arrow",
         "tipped_arrow",
+        "aether:phoenix_bow",
         "pyrellium:amethyst_arrow",
         "pyrellium:opal_arrow"
       ]

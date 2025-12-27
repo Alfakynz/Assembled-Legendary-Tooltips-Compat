@@ -4,15 +4,17 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 
 ## ✨ Compatibility
 
+- [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (most of blocks/items)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
-- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (Bone armors)
+- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (some armors)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
+- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) (most of blocks/items)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
 ## 📦 Installation
@@ -28,10 +30,11 @@ You also need the following mod and resource pack for it to work properly:
 
 ## 🚀 Planned Features
 
-- [Aether](https://modrinth.com/project/YhmgMVyu)
+- [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh, Brimstone)
-- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (all armors)
-- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
+- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (most of armors)
+- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) (resin)
+- Painting, slime, feather, leather, wood (tools), wither bone, prismarine, eggs, ores, seeds, foods, corals, sponge, honey
 
 ## 🙏 Credits
 
