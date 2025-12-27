@@ -1033,6 +1033,29 @@
       ]
     },
     {
+      "name": "Resonarium",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/ore_compat.png",
+      "startColor": "#4DD4FA",
+      "endColor": "#4DD4FA",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:resonarium",
+        "deeperdarker:resonarium_plate",
+        "deeperdarker:resonarium_helmet",
+        "deeperdarker:resonarium_chestplate",
+        "deeperdarker:resonarium_leggings",
+        "deeperdarker:resonarium_boots",
+        "deeperdarker:resonarium_shovel",
+        "deeperdarker:resonarium_pickaxe",
+        "deeperdarker:resonarium_axe",
+        "deeperdarker:resonarium_hoe",
+        "deeperdarker:resonarium_sword"
+      ]
+    },
+    {
+      "name": "Copper",
       "index": 0,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#C77153",
@@ -1046,6 +1069,7 @@
       ]
     },
     {
+      "name": "Exposed Copper",
       "index": 1,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#BA8277",
@@ -1060,6 +1084,7 @@
       ]
     },
     {
+      "name": "Weathered Copper",
       "index": 2,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#69A077",
@@ -1074,6 +1099,7 @@
       ]
     },
     {
+      "name": "Oxidized Copper",
       "index": 3,
       "image": "legendarytooltips:textures/gui/building.png",
       "startColor": "#59B292",
@@ -1745,6 +1771,25 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["verdant_froglight", "wilderwild:verdant_froglight_goop"]
+    },
+    {
+      "name": "Bones",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#CCCDBF",
+      "endColor": "#CCCDBF",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "bone",
+        "bone_block",
+        "bone_meal",
+        "deeperdarker:sculk_bone",
+        "immersive_armors:bone_helmet",
+        "immersive_armors:bone_chestplate",
+        "immersive_armors:bone_leggings",
+        "immersive_armors:bone_boots"
+      ]
     },
     {
       "name": "Opal",
