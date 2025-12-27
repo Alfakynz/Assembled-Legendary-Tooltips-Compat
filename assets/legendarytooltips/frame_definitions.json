@@ -1,6 +1,170 @@
 {
   "definitions": [
     {
+      "name": "Oak",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#A38A61",
+      "endColor": "#A38A61",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:oak_beehive",
+        "wilderwild:hollowed_oak_log",
+        "wilderwild:stripped_hollowed_oak_log"
+      ]
+    },
+    {
+      "name": "Spruce",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#6D5232",
+      "endColor": "#6D5232",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:spruce_beehive",
+        "wilderwild:hollowed_spruce_log",
+        "wilderwild:stripped_hollowed_spruce_log"
+      ]
+    },
+    {
+      "name": "Birch",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#B8AC7E",
+      "endColor": "#B8AC7E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:birch_beehive",
+        "wilderwild:hollowed_birch_log",
+        "wilderwild:stripped_hollowed_birch_log"
+      ]
+    },
+    {
+      "name": "Jungle",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#A9846A",
+      "endColor": "#A9846A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:jungle_beehive",
+        "wilderwild:hollowed_jungle_log",
+        "wilderwild:stripped_hollowed_jungle_log"
+      ]
+    },
+    {
+      "name": "Acacia",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#985736",
+      "endColor": "#985736",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:acacia_beehive",
+        "wilderwild:hollowed_acacia_log",
+        "wilderwild:stripped_hollowed_acacia_log"
+      ]
+    },
+    {
+      "name": "Dark Oak",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#492D0D",
+      "endColor": "#492D0D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:dark_oak_beehive",
+        "wilderwild:hollowed_dark_oak_log",
+        "wilderwild:stripped_hollowed_dark_oak_log"
+      ]
+    },
+    {
+      "name": "Mangrove",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#682817",
+      "endColor": "#682817",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:mangrove_beehive",
+        "wilderwild:hollowed_mangrove_log",
+        "wilderwild:stripped_hollowed_mangrove_log"
+      ]
+    },
+    {
+      "name": "Cherry",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#D3B8B3",
+      "endColor": "#D3B8B3",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:cherry_beehive",
+        "wilderwild:hollowed_cherry_log",
+        "wilderwild:stripped_hollowed_cherry_log"
+      ]
+    },
+    {
+      "name": "Pale Oak",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#D8D0D0",
+      "endColor": "#D8D0D0",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:pale_oak_beehive",
+        "wilderwild:hollowed_pale_oak_log",
+        "wilderwild:stripped_hollowed_pale_oak_log"
+      ]
+    },
+    {
+      "name": "Bamboo",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#B3A95B",
+      "endColor": "#B3A95B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["friendsandfoes:bamboo_beehive"]
+    },
+    {
+      "name": "Crimson",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#562539",
+      "endColor": "#562539",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:crimson_beehive",
+        "wilderwild:hollowed_crimson_stem",
+        "wilderwild:stripped_hollowed_crimson_stem"
+      ]
+    },
+    {
+      "name": "Warped",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/wood.png",
+      "startColor": "#336E6C",
+      "endColor": "#336E6C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:warped_beehive",
+        "wilderwild:hollowed_warped_stem",
+        "wilderwild:stripped_hollowed_warped_stem"
+      ]
+    },
+    {
       "name": "Baobab",
       "index": 0,
       "image": "legendarytooltips:textures/gui/wood_compat.png",
@@ -586,167 +750,610 @@
       ]
     },
     {
-      "name": "Oak",
+      "name": "Stone",
       "index": 0,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#A38A61",
-      "endColor": "#A38A61",
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#A6A6A6",
+      "endColor": "#A6A6A6",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:oak_beehive",
-        "wilderwild:hollowed_oak_log",
-        "wilderwild:stripped_hollowed_oak_log"
-      ]
+      "selectors": ["pyrellium:headstone"]
     },
     {
-      "name": "Spruce",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#6D5232",
-      "endColor": "#6D5232",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:spruce_beehive",
-        "wilderwild:hollowed_spruce_log",
-        "wilderwild:stripped_hollowed_spruce_log"
-      ]
-    },
-    {
-      "name": "Birch",
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#B8AC7E",
-      "endColor": "#B8AC7E",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:birch_beehive",
-        "wilderwild:hollowed_birch_log",
-        "wilderwild:stripped_hollowed_birch_log"
-      ]
-    },
-    {
-      "name": "Jungle",
-      "index": 3,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#A9846A",
-      "endColor": "#A9846A",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:jungle_beehive",
-        "wilderwild:hollowed_jungle_log",
-        "wilderwild:stripped_hollowed_jungle_log"
-      ]
-    },
-    {
-      "name": "Acacia",
-      "index": 4,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#985736",
-      "endColor": "#985736",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:acacia_beehive",
-        "wilderwild:hollowed_acacia_log",
-        "wilderwild:stripped_hollowed_acacia_log"
-      ]
-    },
-    {
-      "name": "Dark Oak",
-      "index": 5,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#492D0D",
-      "endColor": "#492D0D",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:dark_oak_beehive",
-        "wilderwild:hollowed_dark_oak_log",
-        "wilderwild:stripped_hollowed_dark_oak_log"
-      ]
-    },
-    {
-      "name": "Mangrove",
-      "index": 6,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#682817",
-      "endColor": "#682817",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:mangrove_beehive",
-        "wilderwild:hollowed_mangrove_log",
-        "wilderwild:stripped_hollowed_mangrove_log"
-      ]
-    },
-    {
-      "name": "Cherry",
+      "name": "Mud",
       "index": 7,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#D3B8B3",
-      "endColor": "#D3B8B3",
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#89654D",
+      "endColor": "#89654D",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
-        "friendsandfoes:cherry_beehive",
-        "wilderwild:hollowed_cherry_log",
-        "wilderwild:stripped_hollowed_cherry_log"
+        "wilderwild:cracked_mud_bricks",
+        "wilderwild:chiseled_mud_bricks"
       ]
     },
     {
-      "name": "Pale Oak",
+      "name": "Sand",
       "index": 8,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#D8D0D0",
-      "endColor": "#D8D0D0",
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#D6CFA9",
+      "endColor": "#D6CFA9",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:pale_oak_beehive",
-        "wilderwild:hollowed_pale_oak_log",
-        "wilderwild:stripped_hollowed_pale_oak_log"
-      ]
+      "selectors": ["sand", "suspicious_sand", "wilderwild:scorched_sand"]
     },
     {
-      "name": "Bamboo",
+      "name": "Red sand",
       "index": 9,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#B3A95B",
-      "endColor": "#B3A95B",
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#BF6826",
+      "endColor": "#BF6826",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["friendsandfoes:bamboo_beehive"]
+      "selectors": ["red_sand", "wilderwild:scorched_red_sand"]
     },
     {
-      "name": "Crimson",
+      "name": "Blackstone",
       "index": 10,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#562539",
-      "endColor": "#562539",
+      "image": "legendarytooltips:textures/gui/stone.png",
+      "startColor": "#2E2835",
+      "endColor": "#2E2835",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
-        "friendsandfoes:crimson_beehive",
-        "wilderwild:hollowed_crimson_stem",
-        "wilderwild:stripped_hollowed_crimson_stem"
+        "biomesoplenty:blackstone_spines",
+        "biomesoplenty:blackstone_bulb",
+        "pyrellium:blackstone_rock"
       ]
     },
     {
-      "name": "Warped",
-      "index": 11,
-      "image": "legendarytooltips:textures/gui/wood.png",
-      "startColor": "#336E6C",
-      "endColor": "#336E6C",
+      "name": "Mossy Mud",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#89654D",
+      "endColor": "#89654D",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
-        "friendsandfoes:warped_beehive",
-        "wilderwild:hollowed_warped_stem",
-        "wilderwild:stripped_hollowed_warped_stem"
+        "wilderwild:mossy_mud_bricks",
+        "wilderwild:mossy_mud_brick_stairs",
+        "wilderwild:mossy_mud_brick_slab",
+        "wilderwild:mossy_mud_brick_wall"
+      ]
+    },
+    {
+      "name": "Gabbro",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#433731",
+      "endColor": "#433731",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:gabbro",
+        "wilderwild:geyser",
+        "wilderwild:gabbro_stairs",
+        "wilderwild:gabbro_slab",
+        "wilderwild:gabbro_wall",
+        "wilderwild:polished_gabbro",
+        "wilderwild:polished_gabbro_stairs",
+        "wilderwild:polished_gabbro_slab",
+        "wilderwild:polished_gabbro_wall",
+        "wilderwild:gabbro_bricks",
+        "wilderwild:cracked_gabbro_bricks",
+        "wilderwild:gabbro_brick_stairs",
+        "wilderwild:gabbro_brick_slab",
+        "wilderwild:gabbro_brick_wall",
+        "wilderwild:chiseled_gabbro_bricks"
+      ]
+    },
+    {
+      "name": "Mossy Gabbro",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#433731",
+      "endColor": "#433731",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "wilderwild:mossy_gabbro_bricks",
+        "wilderwild:mossy_gabbro_brick_stairs",
+        "wilderwild:mossy_gabbro_brick_slab",
+        "wilderwild:mossy_gabbro_brick_wall"
+      ]
+    },
+    {
+      "name": "White Sand",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#E0DACC",
+      "endColor": "#E0DACC",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:white_sand",
+        "biomesoplenty:white_sandstone",
+        "biomesoplenty:white_sandstone_stairs",
+        "biomesoplenty:white_sandstone_slab",
+        "biomesoplenty:white_sandstone_wall",
+        "biomesoplenty:smooth_white_sandstone",
+        "biomesoplenty:smooth_white_sandstone_stairs",
+        "biomesoplenty:smooth_white_sandstone_slab",
+        "biomesoplenty:smooth_white_sandstone_wall",
+        "biomesoplenty:cut_white_sandstone",
+        "biomesoplenty:cut_white_sandstone_slab",
+        "biomesoplenty:chiseled_white_sandstone"
+      ]
+    },
+    {
+      "name": "Orange Sand",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#CC9C62",
+      "endColor": "#CC9C62",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:orange_sand",
+        "biomesoplenty:orange_sandstone",
+        "biomesoplenty:orange_sandstone_stairs",
+        "biomesoplenty:orange_sandstone_slab",
+        "biomesoplenty:orange_sandstone_wall",
+        "biomesoplenty:smooth_orange_sandstone",
+        "biomesoplenty:smooth_orange_sandstone_stairs",
+        "biomesoplenty:smooth_orange_sandstone_slab",
+        "biomesoplenty:smooth_orange_sandstone_wall",
+        "biomesoplenty:cut_orange_sandstone",
+        "biomesoplenty:cut_orange_sandstone_slab",
+        "biomesoplenty:chiseled_orange_sandstone"
+      ]
+    },
+    {
+      "name": "Black Sand",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#28272A",
+      "endColor": "#28272A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:black_sand",
+        "biomesoplenty:black_sandstone",
+        "biomesoplenty:black_sandstone_stairs",
+        "biomesoplenty:black_sandstone_slab",
+        "biomesoplenty:black_sandstone_wall",
+        "biomesoplenty:smooth_black_sandstone",
+        "biomesoplenty:smooth_black_sandstone_stairs",
+        "biomesoplenty:smooth_black_sandstone_slab",
+        "biomesoplenty:smooth_black_sandstone_wall",
+        "biomesoplenty:cut_black_sandstone",
+        "biomesoplenty:cut_black_sandstone_slab",
+        "biomesoplenty:chiseled_black_sandstone"
+      ]
+    },
+    {
+      "name": "Gloomslate",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#2A2020",
+      "endColor": "#2A2020",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:gloomslate",
+        "deeperdarker:gloomslate_stairs",
+        "deeperdarker:gloomslate_slab",
+        "deeperdarker:gloomslate_wall",
+        "deeperdarker:cobbled_gloomslate",
+        "deeperdarker:cobbled_gloomslate_stairs",
+        "deeperdarker:cobbled_gloomslate_slab",
+        "deeperdarker:cobbled_gloomslate_wall",
+        "deeperdarker:polished_gloomslate",
+        "deeperdarker:polished_gloomslate_stairs",
+        "deeperdarker:polished_gloomslate_slab",
+        "deeperdarker:polished_gloomslate_wall",
+        "deeperdarker:gloomslate_bricks",
+        "deeperdarker:gloomslate_brick_stairs",
+        "deeperdarker:gloomslate_brick_slab",
+        "deeperdarker:gloomslate_brick_wall",
+        "deeperdarker:gloomslate_tiles",
+        "deeperdarker:gloomslate_tile_stairs",
+        "deeperdarker:gloomslate_tile_slab",
+        "deeperdarker:gloomslate_tile_wall",
+        "deeperdarker:smooth_gloomslate",
+        "deeperdarker:smooth_gloomslate_stairs",
+        "deeperdarker:smooth_gloomslate_slab",
+        "deeperdarker:smooth_gloomslate_wall",
+        "deeperdarker:cut_gloomslate",
+        "deeperdarker:cut_gloomslate_stairs",
+        "deeperdarker:cut_gloomslate_slab",
+        "deeperdarker:cut_gloomslate_wall",
+        "deeperdarker:chiseled_gloomslate",
+        "deeperdarker:gloomy_sculk",
+        "deeperdarker:gloomy_geyser"
+      ]
+    },
+    {
+      "name": "Gloomslate",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#12272B",
+      "endColor": "#12272B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:grime_ball",
+        "deeperdarker:grime_brick",
+        "deeperdarker:sculk_grime",
+        "deeperdarker:sculk_grime_bricks",
+        "deeperdarker:sculk_grime_brick_stairs",
+        "deeperdarker:sculk_grime_brick_slab",
+        "deeperdarker:sculk_grime_brick_wall"
+      ]
+    },
+    {
+      "name": "Sculk Stone",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "#0A242D",
+      "endColor": "#0A242D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "deeperdarker:sculk_stone",
+        "deeperdarker:sculk_stone_stairs",
+        "deeperdarker:sculk_stone_slab",
+        "deeperdarker:sculk_stone_wall",
+        "deeperdarker:cobbled_sculk_stone",
+        "deeperdarker:cobbled_sculk_stone_stairs",
+        "deeperdarker:cobbled_sculk_stone_slab",
+        "deeperdarker:cobbled_sculk_stone_wall",
+        "deeperdarker:polished_sculk_stone",
+        "deeperdarker:polished_sculk_stone_stairs",
+        "deeperdarker:polished_sculk_stone_slab",
+        "deeperdarker:polished_sculk_stone_wall",
+        "deeperdarker:sculk_stone_bricks",
+        "deeperdarker:sculk_stone_brick_stairs",
+        "deeperdarker:sculk_stone_brick_slab",
+        "deeperdarker:sculk_stone_brick_wall",
+        "deeperdarker:sculk_stone_tiles",
+        "deeperdarker:sculk_stone_tile_stairs",
+        "deeperdarker:sculk_stone_tile_slab",
+        "deeperdarker:sculk_stone_tile_wall",
+        "deeperdarker:smooth_sculk_stone",
+        "deeperdarker:smooth_sculk_stone_stairs",
+        "deeperdarker:smooth_sculk_stone_slab",
+        "deeperdarker:smooth_sculk_stone_wall",
+        "deeperdarker:cut_sculk_stone",
+        "deeperdarker:cut_sculk_stone_stairs",
+        "deeperdarker:cut_sculk_stone_slab",
+        "deeperdarker:cut_sculk_stone_wall",
+        "deeperdarker:chiseled_sculk_stone",
+        "deeperdarker:blooming_sculk_stone"
+      ]
+    },
+    {
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#C77153",
+      "endColor": "#C77153",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:copper_button",
+        "friendsandfoes:waxed_copper_button",
+        "friendsandfoes:waxed_lightning_rod"
+      ]
+    },
+    {
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#BA8277",
+      "endColor": "#BA8277",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:exposed_copper_button",
+        "friendsandfoes:waxed_exposed_copper_button",
+        "friendsandfoes:exposed_lightning_rod",
+        "friendsandfoes:waxed_exposed_lightning_rod"
+      ]
+    },
+    {
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#69A077",
+      "endColor": "#69A077",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:weathered_copper_button",
+        "friendsandfoes:waxed_weathered_copper_button",
+        "friendsandfoes:weathered_lightning_rod",
+        "friendsandfoes:waxed_weathered_lightning_rod"
+      ]
+    },
+    {
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#59B292",
+      "endColor": "#59B292",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "friendsandfoes:oxidized_copper_button",
+        "friendsandfoes:waxed_oxidized_copper_button",
+        "friendsandfoes:oxidized_lightning_rod",
+        "friendsandfoes:waxed_oxidized_lightning_rod"
+      ]
+    },
+    {
+      "name": "End Stone",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#DEE5A5",
+      "endColor": "#DEE5A5",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:algal_end_stone",
+        "biomesoplenty:unmapped_end_stone"
+      ]
+    },
+    {
+      "name": "Red",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#8D2822",
+      "endColor": "#8D2822",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_red",
+        "comforts:hammock_red",
+        "deeperdarker:red_sculk_transmitter",
+        "soulcandles:red_soul_candle",
+        "&rgb=11546150"
+      ]
+    },
+    {
+      "name": "Orange",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#CA7010",
+      "endColor": "#CA7010",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_orange",
+        "comforts:hammock_orange",
+        "deeperdarker:orange_sculk_transmitter",
+        "soulcandles:orange_soul_candle",
+        "&rgb=16351261"
+      ]
+    },
+    {
+      "name": "Yellow",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#E9BE14",
+      "endColor": "#E9BE14",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_yellow",
+        "comforts:hammock_yellow",
+        "deeperdarker:yellow_sculk_transmitter",
+        "soulcandles:yellow_soul_candle",
+        "&rgb=16701501"
+      ]
+    },
+    {
+      "name": "Lime",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#4CB70E",
+      "endColor": "#4CB70E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_lime",
+        "comforts:hammock_lime",
+        "deeperdarker:lime_sculk_transmitter",
+        "soulcandles:lime_soul_candle",
+        "&rgb=8439583"
+      ]
+    },
+    {
+      "name": "Green",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#476015",
+      "endColor": "#476015",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_green",
+        "comforts:hammock_green",
+        "deeperdarker:green_sculk_transmitter",
+        "soulcandles:green_soul_candle",
+        "&rgb=6192150"
+      ]
+    },
+    {
+      "name": "Cyan",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#187584",
+      "endColor": "#187584",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_cyan",
+        "comforts:hammock_cyan",
+        "deeperdarker:cyan_sculk_transmitter",
+        "soulcandles:cyan_soul_candle",
+        "&rgb=1481884"
+      ]
+    },
+    {
+      "name": "Light Blue",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#3A9CDA",
+      "endColor": "#3A9CDA",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_light_blue",
+        "comforts:hammock_light_blue",
+        "deeperdarker:light_blue_sculk_transmitter",
+        "soulcandles:light_blue_soul_candle",
+        "&rgb=3847130"
+      ]
+    },
+    {
+      "name": "Blue",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#282AA8",
+      "endColor": "#282AA8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_blue",
+        "comforts:hammock_blue",
+        "deeperdarker:blue_sculk_transmitter",
+        "soulcandles:blue_soul_candle",
+        "&rgb=3949738"
+      ]
+    },
+    {
+      "name": "Purple",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#6923A1",
+      "endColor": "#6923A1",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_purple",
+        "comforts:hammock_purple",
+        "deeperdarker:purple_sculk_transmitter",
+        "soulcandles:purple_soul_candle",
+        "&rgb=8991416"
+      ]
+    },
+    {
+      "name": "Magenta",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#B63EAB",
+      "endColor": "#B63EAB",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_magenta",
+        "comforts:hammock_magenta",
+        "deeperdarker:magenta_sculk_transmitter",
+        "soulcandles:magenta_soul_candle",
+        "&rgb=13061821"
+      ]
+    },
+    {
+      "name": "Pink",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#E86D9C",
+      "endColor": "#E86D9C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_pink",
+        "comforts:hammock_pink",
+        "deeperdarker:pink_sculk_transmitter",
+        "soulcandles:pink_soul_candle",
+        "&rgb=15961002"
+      ]
+    },
+    {
+      "name": "White",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#CFDDDD",
+      "endColor": "#CFDDDD",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_white",
+        "comforts:hammock_white",
+        "deeperdarker:white_sculk_transmitter",
+        "soulcandles:white_soul_candle",
+        "&rgb=16383998"
+      ]
+    },
+    {
+      "name": "Light gray",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#7F7F74",
+      "endColor": "#7F7F74",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_light_gray",
+        "comforts:hammock_light_gray",
+        "deeperdarker:light_gray_sculk_transmitter",
+        "soulcandles:light_gray_soul_candle",
+        "&rgb=10329495"
+      ]
+    },
+    {
+      "name": "Gray",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#505459",
+      "endColor": "#505459",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_gray",
+        "comforts:hammock_gray",
+        "deeperdarker:gray_sculk_transmitter",
+        "soulcandles:gray_soul_candle",
+        "&rgb=4673362"
+      ]
+    },
+    {
+      "name": "Black",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#070707",
+      "endColor": "#070707",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_black",
+        "comforts:hammock_black",
+        "deeperdarker:black_sculk_transmitter",
+        "soulcandles:black_soul_candle",
+        "&rgb=1908001"
+      ]
+    },
+    {
+      "name": "Brown",
+      "index": 15,
+      "image": "legendarytooltips:textures/gui/colors.png",
+      "startColor": "#623D20",
+      "endColor": "#623D20",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "comforts:sleeping_bag_brown",
+        "comforts:hammock_brown",
+        "deeperdarker:brown_sculk_transmitter",
+        "soulcandles:brown_soul_candle",
+        "&rgb=8606770"
       ]
     },
     {
@@ -1017,289 +1624,6 @@
       "selectors": ["flower_pot", "%Potted", "deeperdarker:ancient_vase"]
     },
     {
-      "name": "Mud",
-      "index": 7,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#89654D",
-      "endColor": "#89654D",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:cracked_mud_bricks",
-        "wilderwild:chiseled_mud_bricks"
-      ]
-    },
-    {
-      "name": "Blackstone",
-      "index": 10,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#2E2835",
-      "endColor": "#2E2835",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:blackstone_spines",
-        "biomesoplenty:blackstone_bulb",
-        "pyrellium:blackstone_rock"
-      ]
-    },
-    {
-      "name": "Stone",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#A6A6A6",
-      "endColor": "#A6A6A6",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["pyrellium:headstone"]
-    },
-    {
-      "name": "Sand",
-      "index": 8,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#D6CFA9",
-      "endColor": "#D6CFA9",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["sand", "suspicious_sand", "wilderwild:scorched_sand"]
-    },
-    {
-      "name": "Red sand",
-      "index": 9,
-      "image": "legendarytooltips:textures/gui/stone.png",
-      "startColor": "#BF6826",
-      "endColor": "#BF6826",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["red_sand", "wilderwild:scorched_red_sand"]
-    },
-    {
-      "name": "Mossy Mud",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#89654D",
-      "endColor": "#89654D",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:mossy_mud_bricks",
-        "wilderwild:mossy_mud_brick_stairs",
-        "wilderwild:mossy_mud_brick_slab",
-        "wilderwild:mossy_mud_brick_wall"
-      ]
-    },
-    {
-      "name": "Gabbro",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#433731",
-      "endColor": "#433731",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:gabbro",
-        "wilderwild:geyser",
-        "wilderwild:gabbro_stairs",
-        "wilderwild:gabbro_slab",
-        "wilderwild:gabbro_wall",
-        "wilderwild:polished_gabbro",
-        "wilderwild:polished_gabbro_stairs",
-        "wilderwild:polished_gabbro_slab",
-        "wilderwild:polished_gabbro_wall",
-        "wilderwild:gabbro_bricks",
-        "wilderwild:cracked_gabbro_bricks",
-        "wilderwild:gabbro_brick_stairs",
-        "wilderwild:gabbro_brick_slab",
-        "wilderwild:gabbro_brick_wall",
-        "wilderwild:chiseled_gabbro_bricks"
-      ]
-    },
-    {
-      "name": "Mossy Gabbro",
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#433731",
-      "endColor": "#433731",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "wilderwild:mossy_gabbro_bricks",
-        "wilderwild:mossy_gabbro_brick_stairs",
-        "wilderwild:mossy_gabbro_brick_slab",
-        "wilderwild:mossy_gabbro_brick_wall"
-      ]
-    },
-    {
-      "name": "White Sand",
-      "index": 3,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#E0DACC",
-      "endColor": "#E0DACC",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:white_sand",
-        "biomesoplenty:white_sandstone",
-        "biomesoplenty:white_sandstone_stairs",
-        "biomesoplenty:white_sandstone_slab",
-        "biomesoplenty:white_sandstone_wall",
-        "biomesoplenty:smooth_white_sandstone",
-        "biomesoplenty:smooth_white_sandstone_stairs",
-        "biomesoplenty:smooth_white_sandstone_slab",
-        "biomesoplenty:smooth_white_sandstone_wall",
-        "biomesoplenty:cut_white_sandstone",
-        "biomesoplenty:cut_white_sandstone_slab",
-        "biomesoplenty:chiseled_white_sandstone"
-      ]
-    },
-    {
-      "name": "Orange Sand",
-      "index": 4,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#CC9C62",
-      "endColor": "#CC9C62",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:orange_sand",
-        "biomesoplenty:orange_sandstone",
-        "biomesoplenty:orange_sandstone_stairs",
-        "biomesoplenty:orange_sandstone_slab",
-        "biomesoplenty:orange_sandstone_wall",
-        "biomesoplenty:smooth_orange_sandstone",
-        "biomesoplenty:smooth_orange_sandstone_stairs",
-        "biomesoplenty:smooth_orange_sandstone_slab",
-        "biomesoplenty:smooth_orange_sandstone_wall",
-        "biomesoplenty:cut_orange_sandstone",
-        "biomesoplenty:cut_orange_sandstone_slab",
-        "biomesoplenty:chiseled_orange_sandstone"
-      ]
-    },
-    {
-      "name": "Black Sand",
-      "index": 5,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#28272A",
-      "endColor": "#28272A",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:black_sand",
-        "biomesoplenty:black_sandstone",
-        "biomesoplenty:black_sandstone_stairs",
-        "biomesoplenty:black_sandstone_slab",
-        "biomesoplenty:black_sandstone_wall",
-        "biomesoplenty:smooth_black_sandstone",
-        "biomesoplenty:smooth_black_sandstone_stairs",
-        "biomesoplenty:smooth_black_sandstone_slab",
-        "biomesoplenty:smooth_black_sandstone_wall",
-        "biomesoplenty:cut_black_sandstone",
-        "biomesoplenty:cut_black_sandstone_slab",
-        "biomesoplenty:chiseled_black_sandstone"
-      ]
-    },
-    {
-      "name": "Gloomslate",
-      "index": 6,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#2A2020",
-      "endColor": "#2A2020",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "deeperdarker:gloomslate",
-        "deeperdarker:gloomslate_stairs",
-        "deeperdarker:gloomslate_slab",
-        "deeperdarker:gloomslate_wall",
-        "deeperdarker:cobbled_gloomslate",
-        "deeperdarker:cobbled_gloomslate_stairs",
-        "deeperdarker:cobbled_gloomslate_slab",
-        "deeperdarker:cobbled_gloomslate_wall",
-        "deeperdarker:polished_gloomslate",
-        "deeperdarker:polished_gloomslate_stairs",
-        "deeperdarker:polished_gloomslate_slab",
-        "deeperdarker:polished_gloomslate_wall",
-        "deeperdarker:gloomslate_bricks",
-        "deeperdarker:gloomslate_brick_stairs",
-        "deeperdarker:gloomslate_brick_slab",
-        "deeperdarker:gloomslate_brick_wall",
-        "deeperdarker:gloomslate_tiles",
-        "deeperdarker:gloomslate_tile_stairs",
-        "deeperdarker:gloomslate_tile_slab",
-        "deeperdarker:gloomslate_tile_wall",
-        "deeperdarker:smooth_gloomslate",
-        "deeperdarker:smooth_gloomslate_stairs",
-        "deeperdarker:smooth_gloomslate_slab",
-        "deeperdarker:smooth_gloomslate_wall",
-        "deeperdarker:cut_gloomslate",
-        "deeperdarker:cut_gloomslate_stairs",
-        "deeperdarker:cut_gloomslate_slab",
-        "deeperdarker:cut_gloomslate_wall",
-        "deeperdarker:chiseled_gloomslate",
-        "deeperdarker:gloomy_sculk",
-        "deeperdarker:gloomy_geyser"
-      ]
-    },
-    {
-      "name": "Gloomslate",
-      "index": 7,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#12272B",
-      "endColor": "#12272B",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "deeperdarker:grime_ball",
-        "deeperdarker:grime_brick",
-        "deeperdarker:sculk_grime",
-        "deeperdarker:sculk_grime_bricks",
-        "deeperdarker:sculk_grime_brick_stairs",
-        "deeperdarker:sculk_grime_brick_slab",
-        "deeperdarker:sculk_grime_brick_wall"
-      ]
-    },
-    {
-      "name": "Sculk Stone",
-      "index": 8,
-      "image": "legendarytooltips:textures/gui/stone_compat.png",
-      "startColor": "#0A242D",
-      "endColor": "#0A242D",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "deeperdarker:sculk_stone",
-        "deeperdarker:sculk_stone_stairs",
-        "deeperdarker:sculk_stone_slab",
-        "deeperdarker:sculk_stone_wall",
-        "deeperdarker:cobbled_sculk_stone",
-        "deeperdarker:cobbled_sculk_stone_stairs",
-        "deeperdarker:cobbled_sculk_stone_slab",
-        "deeperdarker:cobbled_sculk_stone_wall",
-        "deeperdarker:polished_sculk_stone",
-        "deeperdarker:polished_sculk_stone_stairs",
-        "deeperdarker:polished_sculk_stone_slab",
-        "deeperdarker:polished_sculk_stone_wall",
-        "deeperdarker:sculk_stone_bricks",
-        "deeperdarker:sculk_stone_brick_stairs",
-        "deeperdarker:sculk_stone_brick_slab",
-        "deeperdarker:sculk_stone_brick_wall",
-        "deeperdarker:sculk_stone_tiles",
-        "deeperdarker:sculk_stone_tile_stairs",
-        "deeperdarker:sculk_stone_tile_slab",
-        "deeperdarker:sculk_stone_tile_wall",
-        "deeperdarker:smooth_sculk_stone",
-        "deeperdarker:smooth_sculk_stone_stairs",
-        "deeperdarker:smooth_sculk_stone_slab",
-        "deeperdarker:smooth_sculk_stone_wall",
-        "deeperdarker:cut_sculk_stone",
-        "deeperdarker:cut_sculk_stone_stairs",
-        "deeperdarker:cut_sculk_stone_slab",
-        "deeperdarker:cut_sculk_stone_wall",
-        "deeperdarker:chiseled_sculk_stone",
-        "deeperdarker:blooming_sculk_stone"
-      ]
-    },
-    {
       "name": "Rose Quartz",
       "index": 0,
       "image": "legendarytooltips:textures/gui/biomesoplenty.png",
@@ -1314,364 +1638,6 @@
         "biomesoplenty:medium_rose_quartz_bud",
         "biomesoplenty:small_rose_quartz_bud",
         "biomesoplenty:rose_quartz_chunk"
-      ]
-    },
-    {
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/building.png",
-      "startColor": "#C77153",
-      "endColor": "#C77153",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:copper_button",
-        "friendsandfoes:waxed_copper_button",
-        "friendsandfoes:waxed_lightning_rod"
-      ]
-    },
-    {
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/building.png",
-      "startColor": "#BA8277",
-      "endColor": "#BA8277",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:exposed_copper_button",
-        "friendsandfoes:waxed_exposed_copper_button",
-        "friendsandfoes:exposed_lightning_rod",
-        "friendsandfoes:waxed_exposed_lightning_rod"
-      ]
-    },
-    {
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/building.png",
-      "startColor": "#69A077",
-      "endColor": "#69A077",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:weathered_copper_button",
-        "friendsandfoes:waxed_weathered_copper_button",
-        "friendsandfoes:weathered_lightning_rod",
-        "friendsandfoes:waxed_weathered_lightning_rod"
-      ]
-    },
-    {
-      "index": 3,
-      "image": "legendarytooltips:textures/gui/building.png",
-      "startColor": "#59B292",
-      "endColor": "#59B292",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "friendsandfoes:oxidized_copper_button",
-        "friendsandfoes:waxed_oxidized_copper_button",
-        "friendsandfoes:oxidized_lightning_rod",
-        "friendsandfoes:waxed_oxidized_lightning_rod"
-      ]
-    },
-    {
-      "name": "End Stone",
-      "index": 11,
-      "image": "legendarytooltips:textures/gui/building.png",
-      "startColor": "#DEE5A5",
-      "endColor": "#DEE5A5",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:algal_end_stone",
-        "biomesoplenty:unmapped_end_stone"
-      ]
-    },
-    {
-      "name": "Opal",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/pyrellium.png",
-      "startColor": "#acd1f8",
-      "endColor": "#acd1f8",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "pyrellium:opal",
-        "pyrellium:small_opal_bud",
-        "pyrellium:medium_opal_bud",
-        "pyrellium:large_opal_bud",
-        "pyrellium:opal_cluster",
-        "pyrellium:budding_opal",
-        "pyrellium:opal_block",
-        "pyrellium:clear_opal_block"
-      ]
-    },
-    {
-      "name": "Amber",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/pyrellium.png",
-      "startColor": "#ed4507",
-      "endColor": "#ed4507",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "pyrellium:burning_roots",
-        "pyrellium:burning_sprouts",
-        "pyrellium:burning_vines",
-        "pyrellium:burning_nylium"
-      ]
-    },
-    {
-      "name": "Red",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#8D2822",
-      "endColor": "#8D2822",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_red",
-        "comforts:hammock_red",
-        "deeperdarker:red_sculk_transmitter",
-        "soulcandles:red_soul_candle",
-        "&rgb=11546150"
-      ]
-    },
-    {
-      "name": "Orange",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#CA7010",
-      "endColor": "#CA7010",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_orange",
-        "comforts:hammock_orange",
-        "deeperdarker:orange_sculk_transmitter",
-        "soulcandles:orange_soul_candle",
-        "&rgb=16351261"
-      ]
-    },
-    {
-      "name": "Yellow",
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#E9BE14",
-      "endColor": "#E9BE14",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_yellow",
-        "comforts:hammock_yellow",
-        "deeperdarker:yellow_sculk_transmitter",
-        "soulcandles:yellow_soul_candle",
-        "&rgb=16701501"
-      ]
-    },
-    {
-      "name": "Lime",
-      "index": 3,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#4CB70E",
-      "endColor": "#4CB70E",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_lime",
-        "comforts:hammock_lime",
-        "deeperdarker:lime_sculk_transmitter",
-        "soulcandles:lime_soul_candle",
-        "&rgb=8439583"
-      ]
-    },
-    {
-      "name": "Green",
-      "index": 4,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#476015",
-      "endColor": "#476015",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_green",
-        "comforts:hammock_green",
-        "deeperdarker:green_sculk_transmitter",
-        "soulcandles:green_soul_candle",
-        "&rgb=6192150"
-      ]
-    },
-    {
-      "name": "Cyan",
-      "index": 5,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#187584",
-      "endColor": "#187584",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_cyan",
-        "comforts:hammock_cyan",
-        "deeperdarker:cyan_sculk_transmitter",
-        "soulcandles:cyan_soul_candle",
-        "&rgb=1481884"
-      ]
-    },
-    {
-      "name": "Light Blue",
-      "index": 6,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#3A9CDA",
-      "endColor": "#3A9CDA",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_light_blue",
-        "comforts:hammock_light_blue",
-        "deeperdarker:light_blue_sculk_transmitter",
-        "soulcandles:light_blue_soul_candle",
-        "&rgb=3847130"
-      ]
-    },
-    {
-      "name": "Blue",
-      "index": 7,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#282AA8",
-      "endColor": "#282AA8",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_blue",
-        "comforts:hammock_blue",
-        "deeperdarker:blue_sculk_transmitter",
-        "soulcandles:blue_soul_candle",
-        "&rgb=3949738"
-      ]
-    },
-    {
-      "name": "Purple",
-      "index": 8,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#6923A1",
-      "endColor": "#6923A1",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_purple",
-        "comforts:hammock_purple",
-        "deeperdarker:purple_sculk_transmitter",
-        "soulcandles:purple_soul_candle",
-        "&rgb=8991416"
-      ]
-    },
-    {
-      "name": "Magenta",
-      "index": 9,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#B63EAB",
-      "endColor": "#B63EAB",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_magenta",
-        "comforts:hammock_magenta",
-        "deeperdarker:magenta_sculk_transmitter",
-        "soulcandles:magenta_soul_candle",
-        "&rgb=13061821"
-      ]
-    },
-    {
-      "name": "Pink",
-      "index": 10,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#E86D9C",
-      "endColor": "#E86D9C",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_pink",
-        "comforts:hammock_pink",
-        "deeperdarker:pink_sculk_transmitter",
-        "soulcandles:pink_soul_candle",
-        "&rgb=15961002"
-      ]
-    },
-    {
-      "name": "White",
-      "index": 11,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#CFDDDD",
-      "endColor": "#CFDDDD",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_white",
-        "comforts:hammock_white",
-        "deeperdarker:white_sculk_transmitter",
-        "soulcandles:white_soul_candle",
-        "&rgb=16383998"
-      ]
-    },
-    {
-      "name": "Light gray",
-      "index": 12,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#7F7F74",
-      "endColor": "#7F7F74",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_light_gray",
-        "comforts:hammock_light_gray",
-        "deeperdarker:light_gray_sculk_transmitter",
-        "soulcandles:light_gray_soul_candle",
-        "&rgb=10329495"
-      ]
-    },
-    {
-      "name": "Gray",
-      "index": 13,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#505459",
-      "endColor": "#505459",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_gray",
-        "comforts:hammock_gray",
-        "deeperdarker:gray_sculk_transmitter",
-        "soulcandles:gray_soul_candle",
-        "&rgb=4673362"
-      ]
-    },
-    {
-      "name": "Black",
-      "index": 14,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#070707",
-      "endColor": "#070707",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_black",
-        "comforts:hammock_black",
-        "deeperdarker:black_sculk_transmitter",
-        "soulcandles:black_soul_candle",
-        "&rgb=1908001"
-      ]
-    },
-    {
-      "name": "Brown",
-      "index": 15,
-      "image": "legendarytooltips:textures/gui/colors.png",
-      "startColor": "#623D20",
-      "endColor": "#623D20",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "comforts:sleeping_bag_brown",
-        "comforts:hammock_brown",
-        "deeperdarker:brown_sculk_transmitter",
-        "soulcandles:brown_soul_candle",
-        "&rgb=8606770"
       ]
     },
     {
@@ -1779,6 +1745,40 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["verdant_froglight", "wilderwild:verdant_froglight_goop"]
+    },
+    {
+      "name": "Opal",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/pyrellium.png",
+      "startColor": "#acd1f8",
+      "endColor": "#acd1f8",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pyrellium:opal",
+        "pyrellium:small_opal_bud",
+        "pyrellium:medium_opal_bud",
+        "pyrellium:large_opal_bud",
+        "pyrellium:opal_cluster",
+        "pyrellium:budding_opal",
+        "pyrellium:opal_block",
+        "pyrellium:clear_opal_block"
+      ]
+    },
+    {
+      "name": "Amber",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/pyrellium.png",
+      "startColor": "#ed4507",
+      "endColor": "#ed4507",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "pyrellium:burning_roots",
+        "pyrellium:burning_sprouts",
+        "pyrellium:burning_vines",
+        "pyrellium:burning_nylium"
+      ]
     },
     {
       "name": "Blue Pearlescent Mesoglea",
