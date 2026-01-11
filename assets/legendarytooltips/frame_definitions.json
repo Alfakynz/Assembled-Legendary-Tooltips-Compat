@@ -1033,13 +1033,33 @@
       ]
     },
     {
+      "name": "Brimstone",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/stone_compat.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:brimstone",
+        "biomesoplenty:brimstone_bricks",
+        "biomesoplenty:brimstone_brick_stairs",
+        "biomesoplenty:brimstone_brick_slab",
+        "biomesoplenty:brimstone_brick_wall",
+        "biomesoplenty:chiseled_brimstone_bricks",
+        "biomesoplenty:brimstone_fumarole",
+        "biomesoplenty:brimstone_cluster",
+        "biomesoplenty:brimstone_bud"
+      ]
+    },
+    {
       "name": "Resonarium",
       "index": 0,
       "image": "legendarytooltips:textures/gui/ore_compat.png",
-      "startColor": "#4DD4FA",
-      "endColor": "#4DD4FA",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": [
         "deeperdarker:resonarium",
         "deeperdarker:resonarium_plate",
@@ -1114,6 +1134,36 @@
       ]
     },
     {
+      "name": "Bricks",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#9B5643",
+      "endColor": "#9B5643",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["brick"]
+    },
+    {
+      "name": "Prismarine",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#75A8A0",
+      "endColor": "#75A8A0",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["prismarine_shard"]
+    },
+    {
+      "name": "Nether Bricks",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#441823",
+      "endColor": "#441823",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["nether_brick"]
+    },
+    {
       "name": "End Stone",
       "index": 11,
       "image": "legendarytooltips:textures/gui/building.png",
@@ -1124,6 +1174,25 @@
       "selectors": [
         "biomesoplenty:algal_end_stone",
         "biomesoplenty:unmapped_end_stone"
+      ]
+    },
+    {
+      "name": "Resine",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/building_compat.png",
+      "startColor": "#E36216",
+      "endColor": "#E36216",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "resin_block",
+        "resin_bricks",
+        "chiseled_resin_bricks",
+        "resin_brick_stairs",
+        "resin_brick_slab",
+        "resin_brick_wall",
+        "resin_clump",
+        "resin_brick"
       ]
     },
     {
@@ -1478,11 +1547,7 @@
       "endColor": "#FF7D8A91",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "goat_horn",
-        "wilderwild:copper_horn",
-        "wilderwild:display_lantern"
-      ]
+      "selectors": ["goat_horn", "wilderwild:display_lantern"]
     },
     {
       "name": "Holy",
@@ -1507,10 +1572,6 @@
       "bgStartColor": "30_#052A32_#111B21",
       "bgEndColor": "#0D1217",
       "selectors": [
-        "deeperdarker:sculk_tendrils",
-        "deeperdarker:sculk_vines",
-        "deeperdarker:infested_sculk",
-        "deeperdarker:sculk_jaw",
         "deeperdarker:soul_dust",
         "deeperdarker:soul_crystal",
         "deeperdarker:heart_of_the_deep",
@@ -1531,13 +1592,38 @@
         "deeperdarker:sculk_transmitter",
         "deeperdarker:shattered_head",
         "deeperdarker:soundproof_glass",
+        "wilderwild:echo_glass"
+      ]
+    },
+    {
+      "name": "Sculk",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#19737B",
+      "endColor": "#052E37",
+      "bgStartColor": "30_#21474D_#111B21",
+      "bgEndColor": "#0D1217",
+      "selectors": [
+        "deeperdarker:sculk_tendrils",
+        "deeperdarker:sculk_vines",
+        "deeperdarker:infested_sculk",
+        "deeperdarker:sculk_jaw",
         "wilderwild:osseous_sculk",
         "wilderwild:sculk_stairs",
         "wilderwild:sculk_slab",
         "wilderwild:sculk_wall",
-        "wilderwild:hanging_tendril",
-        "wilderwild:echo_glass"
+        "wilderwild:hanging_tendril"
       ]
+    },
+    {
+      "name": "Copper plating",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#D37253",
+      "endColor": "#D37253",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:copper_horn"]
     },
     {
       "name": "Amethyst",
@@ -1715,10 +1801,10 @@
       "name": "Rose Quartz",
       "index": 0,
       "image": "legendarytooltips:textures/gui/biomesoplenty.png",
-      "startColor": "#ED6C73",
-      "endColor": "#ED6C73",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": [
         "biomesoplenty:rose_quartz_block",
         "biomesoplenty:rose_quartz_cluster",
@@ -1732,20 +1818,20 @@
       "name": "Quartz",
       "index": 0,
       "image": "legendarytooltips:textures/gui/minecraft.png",
-      "startColor": "#e5dfd6",
-      "endColor": "#e5dfd6",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": ["quartz", "pyrellium:quartz_crystal"]
     },
     {
       "name": "Silk and webs",
       "index": 1,
       "image": "legendarytooltips:textures/gui/minecraft.png",
-      "startColor": "#dbdbdb",
-      "endColor": "#dbdbdb",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": [
         "cobweb",
         "string",
@@ -1765,8 +1851,8 @@
       "name": "Ice",
       "index": 2,
       "image": "legendarytooltips:textures/gui/minecraft.png",
-      "startColor": "#67C2EA",
-      "endColor": "#67C2EA",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
@@ -1789,8 +1875,8 @@
       "image": "legendarytooltips:textures/gui/minecraft.png",
       "startColor": "#896727",
       "endColor": "#896727",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": [
         "bow",
         "crossbow",
@@ -1860,10 +1946,10 @@
       "name": "Opal",
       "index": 0,
       "image": "legendarytooltips:textures/gui/pyrellium.png",
-      "startColor": "#acd1f8",
-      "endColor": "#acd1f8",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
       "selectors": [
         "pyrellium:opal",
         "pyrellium:small_opal_bud",
@@ -1879,8 +1965,8 @@
       "name": "Amber",
       "index": 1,
       "image": "legendarytooltips:textures/gui/pyrellium.png",
-      "startColor": "#ed4507",
-      "endColor": "#ed4507",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
@@ -1894,8 +1980,8 @@
       "name": "Blue Pearlescent Mesoglea",
       "index": 0,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#D6EBF4",
-      "endColor": "#D6EBF4",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
@@ -1907,8 +1993,8 @@
       "name": "Blue Mesoglea",
       "index": 1,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#6C7CFF",
-      "endColor": "#6C7CFF",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:blue_mesoglea", "wilderwild:blue_nematocyst"]
@@ -1917,8 +2003,8 @@
       "name": "Lime Mesoglea",
       "index": 2,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#27E510",
-      "endColor": "#27E510",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:lime_mesoglea", "wilderwild:lime_nematocyst"]
@@ -1927,8 +2013,8 @@
       "name": "Pink Mesoglea",
       "index": 3,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#F09ADA",
-      "endColor": "#F09ADA",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:pink_mesoglea", "wilderwild:pink_nematocyst"]
@@ -1937,8 +2023,8 @@
       "name": "Red Mesoglea",
       "index": 4,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#FD4C31",
-      "endColor": "#FD4C31",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:red_mesoglea", "wilderwild:red_nematocyst"]
@@ -1947,8 +2033,8 @@
       "name": "Yellow Mesoglea",
       "index": 5,
       "image": "legendarytooltips:textures/gui/wilderwild.png",
-      "startColor": "#FFF0AA",
-      "endColor": "#FFF0AA",
+      "startColor": "auto",
+      "endColor": "auto",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [

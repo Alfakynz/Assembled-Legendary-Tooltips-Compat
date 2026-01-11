@@ -14,7 +14,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
-- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) (most of blocks/items)
+- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
 ## 📦 Installation
@@ -31,10 +31,9 @@ You also need the following mod and resource pack for it to work properly:
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh, Brimstone)
+- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (most of armors)
-- [Vanilla Backport](https://modrinth.com/project/6xwxDTgf) (resin)
-- Painting, slime, feather, leather, wood (tools), wither bone, prismarine, eggs, ores, seeds, foods, corals, sponge, honey
+- Painting, slime, feather, leather, wood (tools), wither bone, eggs, ores, seeds, foods, corals, sponge, honey
 
 ## 🙏 Credits
 
