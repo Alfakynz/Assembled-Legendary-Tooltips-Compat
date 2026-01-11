@@ -5,7 +5,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 ## ✨ Compatibility
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
-- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (most of blocks/items)
+- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
@@ -31,9 +31,8 @@ You also need the following mod and resource pack for it to work properly:
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G) (Null, Flesh)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (most of armors)
-- Painting, slime, feather, leather, wood (tools), wither bone, eggs, ores, seeds, foods, corals, sponge, honey
+- Painting, slime, feather, leather, wood (tools), wither bone, prismarine, eggs, ores, seeds, foods, corals, sponge, honey
 
 ## 🙏 Credits
 

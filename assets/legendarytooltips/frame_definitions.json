@@ -1604,6 +1604,11 @@
       "bgStartColor": "30_#21474D_#111B21",
       "bgEndColor": "#0D1217",
       "selectors": [
+        "sculk",
+        "sculk_vein",
+        "sculk_catalyst",
+        "sculk_shrieker",
+        "sculk_sensor",
         "deeperdarker:sculk_tendrils",
         "deeperdarker:sculk_vines",
         "deeperdarker:infested_sculk",
@@ -1812,6 +1817,42 @@
         "biomesoplenty:medium_rose_quartz_bud",
         "biomesoplenty:small_rose_quartz_bud",
         "biomesoplenty:rose_quartz_chunk"
+      ]
+    },
+    {
+      "name": "Flesh",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
+      "startColor": "#601F18",
+      "endColor": "#601F18",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:flesh",
+        "biomesoplenty:porous_flesh",
+        "biomesoplenty:flesh_tendons",
+        "biomesoplenty:flesh_tendons_strand",
+        "biomesoplenty:eyebulb",
+        "biomesoplenty:hair",
+        "biomesoplenty:pus_bubble"
+      ]
+    },
+    {
+      "name": "Null",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/biomesoplenty-null.png",
+      "startColor": "#F800F8_#000000",
+      "endColor": "#000000_#F800F8",
+      "bgStartColor": "#000000_#F800F8",
+      "bgEndColor": "#F800F8_#000000",
+      "selectors": [
+        "biomesoplenty:anomaly",
+        "biomesoplenty:liquid_null",
+        "biomesoplenty:null_end_stone",
+        "biomesoplenty:null_block",
+        "biomesoplenty:null_leaves",
+        "biomesoplenty:null_plant",
+        "biomesoplenty:null_block"
       ]
     },
     {
