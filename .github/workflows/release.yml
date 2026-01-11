@@ -31,10 +31,7 @@ jobs:
           release_name: Assembled Legendary Tooltips Compat ${{ github.ref_name }}
           draft: true
           prerelease: false
-          body: |
-            -
-
-            **Full Changelog**: https://github.com/Alfakynz/Assembled-Legendary-Tooltips-Compat/compare/v1.x.x...v1.x.x
+          body: "-"
 
       - name: Upload ZIP to the release
         uses: actions/upload-release-asset@v1
