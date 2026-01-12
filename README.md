@@ -17,6 +17,11 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
 
+## 🚀 Planned Features
+
+- [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
+- Feather, eggs, ores, seeds, foods, corals, sponge, honey
+
 ## 📦 Installation
 
 You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
@@ -27,11 +32,6 @@ You also need the following mod and resource pack for it to work properly:
 
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
 - [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
-
-## 🚀 Planned Features
-
-- [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- Painting, feather, eggs, ores, seeds, foods, corals, sponge, honey
 
 ## 🙏 Credits
 

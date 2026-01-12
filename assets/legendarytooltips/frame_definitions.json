@@ -1144,6 +1144,16 @@
       "selectors": ["brick"]
     },
     {
+      "name": "Prismarine Blocks",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/building.png",
+      "startColor": "#75A8A0",
+      "endColor": "#75A8A0",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["sea_lantern"]
+    },
+    {
       "name": "Nether Bricks",
       "index": 10,
       "image": "legendarytooltips:textures/gui/building.png",
@@ -1583,7 +1593,7 @@
       "endColor": "#FF7D8A91",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["goat_horn", "wilderwild:display_lantern"]
+      "selectors": ["goat_horn", "spawner", "wilderwild:display_lantern"]
     },
     {
       "name": "Holy",
@@ -2142,6 +2152,16 @@
         "immersive_armors:slime_leggings",
         "immersive_armors:slime_boots"
       ]
+    },
+    {
+      "name": "Painting",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#B3AE9F",
+      "endColor": "#B3AE9F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["item_frame", "glow_item_frame", "painting"]
     },
     {
       "name": "Opal",
