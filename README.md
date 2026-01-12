@@ -10,7 +10,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
-- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (some armors)
+- [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
@@ -31,8 +31,7 @@ You also need the following mod and resource pack for it to work properly:
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- [Immersive Armors](https://modrinth.com/project/eE2Db4YU) (most of armors)
-- Painting, slime, feather, leather, wood (tools), wither bone, prismarine, eggs, ores, seeds, foods, corals, sponge, honey
+- Painting, feather, eggs, ores, seeds, foods, corals, sponge, honey
 
 ## 🙏 Credits
 
