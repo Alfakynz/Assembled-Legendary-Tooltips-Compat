@@ -768,6 +768,8 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "mud",
+        "muddy_mangrove_roots",
         "wilderwild:cracked_mud_bricks",
         "wilderwild:chiseled_mud_bricks"
       ]
@@ -2162,6 +2164,26 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["item_frame", "glow_item_frame", "painting"]
+    },
+    {
+      "name": "Feather",
+      "index": 15,
+      "image": "legendarytooltips:textures/gui/minecraft.png",
+      "startColor": "#FFFFFF",
+      "endColor": "#D3D3D3",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["feather"]
+    },
+    {
+      "name": "Soul",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "auto",
+      "endColor": "#5B4538",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["soul_sand", "soul_soil"]
     },
     {
       "name": "Opal",
