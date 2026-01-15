@@ -20,7 +20,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- Eggs, ores, seeds, foods, corals, sponge, honey
+- Seeds, corals, sponge
 
 ## 📦 Installation
 

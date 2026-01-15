@@ -1606,6 +1606,8 @@
       "bgStartColor": "#D8FFFADB-v245",
       "bgEndColor": "#F4FFDFAD-v210+s90",
       "selectors": [
+        "aether:enchanted_berry",
+        "aether:healing_stone",
         "aether:white_apple",
         "friendsandfoes:totem_of_freezing",
         "friendsandfoes:totem_of_illusion",
@@ -1895,6 +1897,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "rotten_flesh",
         "biomesoplenty:flesh",
         "biomesoplenty:porous_flesh",
         "biomesoplenty:flesh_tendons",
@@ -2184,6 +2187,251 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["soul_sand", "soul_soil"]
+    },
+    {
+      "name": "Egg",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#FFFFFF",
+      "endColor": "#FFFFFF",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "egg",
+        "blue_egg",
+        "brown_egg",
+        "sniffer_egg",
+        "turtle_egg",
+        "aether:black_moa_egg",
+        "aether:blue_moa_egg",
+        "aether:white_moa_egg",
+        "friendsandfoes:crab_egg",
+        "wilderwild:ostrich_egg",
+        "wilderwild:penguin_egg"
+      ]
+    },
+    {
+      "name": "Honey",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#EA8E16",
+      "endColor": "#D56B2B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "honeycomb",
+        "honeycomb_block",
+        "honey_block",
+        "honey_bottle"
+      ]
+    },
+    {
+      "name": "Food",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#FF1C2B",
+      "endColor": "#9C1017",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "apple",
+        "baked_potato",
+        "beetroot",
+        "beetroot_soup",
+        "bread",
+        "cake",
+        "carrot",
+        "cookie",
+        "dried_kelp",
+        "glow_berries",
+        "melon_slice",
+        "mushroom_stew",
+        "poisonous_potato",
+        "potato",
+        "pumpkin_pie",
+        "rabbit_stew",
+        "sweet_berries",
+        "aether:ambrosium_shard",
+        "aether:blue_berry",
+        "aether:blue_gummy_swet",
+        "aether:candy_cane",
+        "aether:gingerbread_man",
+        "aether:golden_gummy_swet",
+        "wilderwild:baobab_nut",
+        "wilderwild:peeled_prickly_pear",
+        "wilderwild:prickly_pear",
+        "wilderwild:split_coconut"
+      ]
+    },
+    {
+      "name": "Cooked Beef",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "auto",
+      "endColor": "#3F2116",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_beef"]
+    },
+    {
+      "name": "Cooked Porkchop",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D3C088",
+      "endColor": "#997942",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_porkchop"]
+    },
+    {
+      "name": "Cooked Mutton",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#A3705A",
+      "endColor": "#6B3A2A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_mutton"]
+    },
+    {
+      "name": "Cooked Chicken",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D28E62",
+      "endColor": "#8B4420",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_chicken"]
+    },
+    {
+      "name": "Cooked Rabbit",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D28E62",
+      "endColor": "#7A3D1C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_rabbit"]
+    },
+    {
+      "name": "Cooked Cod",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D6C5AD",
+      "endColor": "#AE8B67",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_cod"]
+    },
+    {
+      "name": "Cooked Salmon",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#BA4F23",
+      "endColor": "#5D7764",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_salmon"]
+    },
+    {
+      "name": "Cooked Crab Claw",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#E25F16",
+      "endColor": "#831F07",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:cooked_crab_claw"]
+    },
+    {
+      "name": "Beef",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "auto",
+      "endColor": "#7B1713",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["beef"]
+    },
+    {
+      "name": "Porkchop",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#FF7777",
+      "endColor": "#A75353",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["porkchop"]
+    },
+    {
+      "name": "Mutton",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#D12E26",
+      "endColor": "#96211B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["mutton"]
+    },
+    {
+      "name": "Chicken",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#EFBCAC",
+      "endColor": "#B47B65",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["chicken"]
+    },
+    {
+      "name": "Rabbit",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#EFBCAC",
+      "endColor": "#B47864",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["rabbit"]
+    },
+    {
+      "name": "Cod",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#C6A271",
+      "endColor": "#986D4E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cod"]
+    },
+    {
+      "name": "Salmon",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#AB3533",
+      "endColor": "#5D7764",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["salmon"]
+    },
+    {
+      "name": "Tropical",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#F46F20",
+      "endColor": "#BB502C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["tropical_fish"]
+    },
+    {
+      "name": "Crab Claw",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#FF9B56",
+      "endColor": "#E16A27",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:crab_claw"]
     },
     {
       "name": "Opal",
