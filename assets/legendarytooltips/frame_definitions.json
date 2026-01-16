@@ -2264,6 +2264,16 @@
       ]
     },
     {
+      "name": "Sponge",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#CDCE4A",
+      "endColor": "#9D8F39",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["sponge", "wet_sponge", "wilderwild:sponge_bud"]
+    },
+    {
       "name": "Cooked Beef",
       "index": 0,
       "image": "legendarytooltips:textures/gui/cooked_meat.png",
