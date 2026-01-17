@@ -2275,6 +2275,92 @@
       "selectors": ["sponge", "wet_sponge", "wilderwild:sponge_bud"]
     },
     {
+      "name": "Dead coral",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#867B77",
+      "endColor": "#867B77",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "dead_tube_coral_block",
+        "dead_brain_coral_block",
+        "dead_bubble_coral_block",
+        "dead_fire_coral_block",
+        "dead_horn_coral_block",
+        "dead_tube_coral",
+        "dead_brain_coral",
+        "dead_bubble_coral",
+        "dead_fire_coral",
+        "dead_horn_coral",
+        "dead_tube_coral_fan",
+        "dead_brain_coral_fan",
+        "dead_bubble_coral_fan",
+        "dead_fire_coral_fan",
+        "dead_horn_coral_fan"
+      ]
+    },
+    {
+      "name": "Tube coral",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#314FDD",
+      "endColor": "#314FDD",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["tube_coral_block", "tube_coral", "tube_coral_fan"]
+    },
+    {
+      "name": "Brain coral",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#D6549B",
+      "endColor": "#D6549B",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["brain_coral_block", "brain_coral", "brain_coral_fan"]
+    },
+    {
+      "name": "Bubble coral",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#A51DA5",
+      "endColor": "#A51DA5",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["bubble_coral_block", "bubble_coral", "bubble_coral_fan"]
+    },
+    {
+      "name": "Fire coral",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#A4222F",
+      "endColor": "#A4222F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["fire_coral_block", "fire_coral", "fire_coral_fan"]
+    },
+    {
+      "name": "Horn coral",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "startColor": "#D5CB3E",
+      "endColor": "#D5CB3E",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["horn_coral_block", "horn_coral", "horn_coral_fan"]
+    },
+    {
+      "name": "Seeds",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/void.png",
+      "startColor": "#69B038",
+      "endColor": "#69B038",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["$c:seeds", "cocoa_beans"]
+    },
+    {
       "name": "Cooked Beef",
       "index": 0,
       "image": "legendarytooltips:textures/gui/cooked_meat.png",
