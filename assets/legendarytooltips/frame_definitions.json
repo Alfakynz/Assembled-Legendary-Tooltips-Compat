@@ -9,7 +9,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
-        "friendsandfoes:oak_beehive",
+        "beehive",
         "wilderwild:hollowed_oak_log",
         "wilderwild:stripped_hollowed_oak_log"
       ]
@@ -2219,6 +2219,7 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": [
+        "bee_nest",
         "honeycomb",
         "honeycomb_block",
         "honey_block",
