@@ -20,6 +20,7 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
+- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
 
 ## 📦 Installation
 
