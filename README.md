@@ -1,6 +1,6 @@
-# 🌟 Assembled Legendary Tooltips Compat
+# 🌟 Crystal Tooltips
 
-Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the Assembled Legendary Tooltips and other mods.
+Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips mod.
 
 ## ✨ Compatibility
 
@@ -21,17 +21,17 @@ Assembled Legendary Tooltips Compat (ALT Compat) adds compatibility between the 
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
 - [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
+- [Living Things](https://modrinth.com/project/UKDLi1GJ)
 
 ## 📦 Installation
 
-You can download Assembled Legendary Tooltips Compat on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/alt-compat)
+You can download Crystal Tooltips on [Modrinth](https://modrinth.com/project/FVonl8G5) or [CurseForge](https://www.curseforge.com/minecraft/texture-packs/crystal-tooltips)
 
 ## ⚙️ Requirements
 
-You also need the following mod and resource pack for it to work properly:
+You need the following mod for it to work properly:
 
 - [Legendary Tooltips](https://modrinth.com/project/atHH8NyV)
-- [Assembled Legendary Tooltips](https://modrinth.com/project/P6gDZwVp)
 
 ## 🙏 Credits
 
@@ -42,7 +42,7 @@ And a big thanks as well to every other mod creator!! Your mods make the game ev
 
 ## 🤝 Contributing
 
-Assembled Legendary Tooltips Compat is a work in progress, and all suggestions are welcome.
+Crystal Tooltips is a work in progress, and all suggestions are welcome.
 
 If you'd like to contribute:
 
@@ -54,7 +54,7 @@ If you have any questions, here's Discord server: https://discord.gg/TcmUQHZ5U4
 
 ## 📦 Modpack
 
-Feel free to include Assembled Legendary Tooltips Compat in modpacks.
+Feel free to include Crystal Tooltips in modpacks.
 
 ## 🌐 Looking for a server? Support me at the same time!
 

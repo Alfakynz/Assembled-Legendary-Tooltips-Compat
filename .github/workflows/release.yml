@@ -19,7 +19,7 @@ jobs:
       - name: Create zip archive
         run: |
           mkdir build
-          zip -r build/ALT-Compat.zip assets pack.mcmeta pack.png
+          zip -r build/Crystal-Tooltips.zip assets pack.mcmeta pack.png
 
       - name: Create draft release
         id: create_release
@@ -28,7 +28,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref_name }}
-          release_name: Assembled Legendary Tooltips Compat ${{ github.ref_name }}
+          release_name: Crystal Tooltips ${{ github.ref_name }}
           draft: true
           prerelease: false
           body: "-"
@@ -39,6 +39,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/ALT-Compat.zip
-          asset_name: ALT-Compat.zip
+          asset_path: build/Crystal-Tooltips.zip
+          asset_name: Crystal-Tooltips.zip
           asset_content_type: application/zip
