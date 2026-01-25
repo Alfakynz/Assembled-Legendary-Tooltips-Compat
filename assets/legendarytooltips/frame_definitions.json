@@ -2386,6 +2386,7 @@
         "diamond_pickaxe",
         "diamond_shovel",
         "diamond_sword",
+        "crittersandcompanions:diamond_dragonfly_armor",
         "farmersdelight:diamond_knife",
         "medievalweapons:diamond_big_axe",
         "medievalweapons:diamond_dagger",
@@ -2436,6 +2437,7 @@
         "aether:golden_pendant",
         "aether:golden_ring",
         "beansbackpacks:gold_backpack",
+        "crittersandcompanions:gold_dragonfly_armor",
         "farmersdelight:golden_knife",
         "horseexpert:monocle",
         "medievalweapons:golden_big_axe",
@@ -2489,6 +2491,10 @@
         "beansbackpacks:lunch_box",
         "biomesoplenty:blood_bucket",
         "biomesoplenty:liquid_null_bucket",
+        "crittersandcompanions:dumbo_octopus_bucket",
+        "crittersandcompanions:iron_dragonfly_armor",
+        "crittersandcompanions:koi_fish_bucket",
+        "crittersandcompanions:sea_bunny_bucket",
         "farmersdelight:cooking_pot",
         "farmersdelight:iron_knife",
         "farmersdelight:skillet",
@@ -2543,6 +2549,7 @@
         "aether:ambrosium_torch",
         "friendsandfoes:wildfire_crown",
         "friendsandfoes:wildfire_crown_fragment",
+        "livingthings:ancient_helmet",
         "netherite_upgrade_smithing_template",
         "pyrellium:netherrack_mycelium"
       ]
@@ -2756,6 +2763,16 @@
         "small_amethyst_bud",
         "pyrellium:clear_amethyst_block"
       ]
+    },
+    {
+      "name": "Seeds",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/1.png",
+      "startColor": "#69B038",
+      "endColor": "#69B038",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["$c:seeds", "cocoa_beans"]
     },
     {
       "name": "Command blocks",
@@ -3154,61 +3171,6 @@
       ]
     },
     {
-      "name": "Rose Quartz",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
-      "startColor": "auto",
-      "endColor": "auto",
-      "bgStartColor": "auto",
-      "bgEndColor": "auto",
-      "selectors": [
-        "biomesoplenty:large_rose_quartz_bud",
-        "biomesoplenty:medium_rose_quartz_bud",
-        "biomesoplenty:rose_quartz_block",
-        "biomesoplenty:rose_quartz_chunk",
-        "biomesoplenty:rose_quartz_cluster",
-        "biomesoplenty:small_rose_quartz_bud"
-      ]
-    },
-    {
-      "name": "Flesh",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
-      "startColor": "#601F18",
-      "endColor": "#601F18",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": [
-        "biomesoplenty:eyebulb",
-        "biomesoplenty:flesh",
-        "biomesoplenty:flesh_tendons",
-        "biomesoplenty:flesh_tendons_strand",
-        "biomesoplenty:hair",
-        "biomesoplenty:porous_flesh",
-        "biomesoplenty:pus_bubble",
-        "rotten_flesh"
-      ]
-    },
-    {
-      "name": "Null",
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
-      "startColor": "#F800F8_#000000",
-      "endColor": "#000000_#F800F8",
-      "bgStartColor": "#000000_#F800F8",
-      "bgEndColor": "#F800F8_#000000",
-      "selectors": [
-        "biomesoplenty:anomaly",
-        "biomesoplenty:liquid_null",
-        "biomesoplenty:null_block",
-        "biomesoplenty:null_block",
-        "biomesoplenty:null_end_stone",
-        "biomesoplenty:null_leaves",
-        "biomesoplenty:null_plant",
-        "wilderwild:null_block"
-      ]
-    },
-    {
       "name": "Quartz",
       "index": 0,
       "image": "legendarytooltips:textures/gui/minecraft.png",
@@ -3236,6 +3198,10 @@
         "biomesoplenty:spider_egg",
         "biomesoplenty:stringy_cobweb",
         "biomesoplenty:webbing",
+        "crittersandcompanions:grappling_hook",
+        "crittersandcompanions:silk",
+        "crittersandcompanions:silk_cocoon",
+        "crittersandcompanions:silk_lead",
         "pyrellium:hanging_silk",
         "pyrellium:silk_block",
         "pyrellium:silk_carpet"
@@ -3439,6 +3405,8 @@
       "selectors": [
         "slime_ball",
         "slime_block",
+        "crittersandcompanions:sea_bunny_slime_bottle",
+        "crittersandcompanions:sea_bunny_slime_block",
         "immersive_armors:slime_boots",
         "immersive_armors:slime_chestplate",
         "immersive_armors:slime_helmet",
@@ -3468,7 +3436,7 @@
     {
       "name": "Soul",
       "index": 0,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "auto",
       "endColor": "#5B4538",
       "bgStartColor": "#0C0C0C+v15",
@@ -3478,7 +3446,7 @@
     {
       "name": "Egg",
       "index": 1,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#FFFFFF",
       "endColor": "#FFFFFF",
       "bgStartColor": "#0C0C0C+v15",
@@ -3493,6 +3461,7 @@
         "aether:blue_moa_egg",
         "aether:white_moa_egg",
         "friendsandfoes:crab_egg",
+        "livingthings:ostrich_egg",
         "wilderwild:ostrich_egg",
         "wilderwild:penguin_egg"
       ]
@@ -3500,7 +3469,7 @@
     {
       "name": "Honey",
       "index": 2,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#EA8E16",
       "endColor": "#D56B2B",
       "bgStartColor": "#0C0C0C+v15",
@@ -3516,7 +3485,7 @@
     {
       "name": "Food",
       "index": 3,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#FF1C2B",
       "endColor": "#9C1017",
       "bgStartColor": "#0C0C0C+v15",
@@ -3546,6 +3515,7 @@
         "aether:gingerbread_man",
         "aether:golden_gummy_swet",
         "deeperdarker:bloom_berries",
+        "livingthings:banana",
         "wilderwild:baobab_nut",
         "wilderwild:peeled_prickly_pear",
         "wilderwild:prickly_pear",
@@ -3555,7 +3525,7 @@
     {
       "name": "Sponge",
       "index": 4,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#CDCE4A",
       "endColor": "#9D8F39",
       "bgStartColor": "#0C0C0C+v15",
@@ -3565,7 +3535,7 @@
     {
       "name": "Dead coral",
       "index": 5,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#867B77",
       "endColor": "#867B77",
       "bgStartColor": "#0C0C0C+v15",
@@ -3591,7 +3561,7 @@
     {
       "name": "Tube coral",
       "index": 6,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#314FDD",
       "endColor": "#314FDD",
       "bgStartColor": "#0C0C0C+v15",
@@ -3601,7 +3571,7 @@
     {
       "name": "Brain coral",
       "index": 7,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#D6549B",
       "endColor": "#D6549B",
       "bgStartColor": "#0C0C0C+v15",
@@ -3611,7 +3581,7 @@
     {
       "name": "Bubble coral",
       "index": 8,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#A51DA5",
       "endColor": "#A51DA5",
       "bgStartColor": "#0C0C0C+v15",
@@ -3621,7 +3591,7 @@
     {
       "name": "Fire coral",
       "index": 9,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#A4222F",
       "endColor": "#A4222F",
       "bgStartColor": "#0C0C0C+v15",
@@ -3631,102 +3601,12 @@
     {
       "name": "Horn coral",
       "index": 10,
-      "image": "legendarytooltips:textures/gui/minecraft2.png",
+      "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#D5CB3E",
       "endColor": "#D5CB3E",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["horn_coral", "horn_coral_block", "horn_coral_fan"]
-    },
-    {
-      "name": "Seeds",
-      "index": 14,
-      "image": "legendarytooltips:textures/gui/1.png",
-      "startColor": "#69B038",
-      "endColor": "#69B038",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["$c:seeds", "cocoa_beans"]
-    },
-    {
-      "name": "Cooked Beef",
-      "index": 0,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "auto",
-      "endColor": "#3F2116",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_beef"]
-    },
-    {
-      "name": "Cooked Porkchop",
-      "index": 1,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#D3C088",
-      "endColor": "#997942",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_porkchop"]
-    },
-    {
-      "name": "Cooked Mutton",
-      "index": 2,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#A3705A",
-      "endColor": "#6B3A2A",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_mutton"]
-    },
-    {
-      "name": "Cooked Chicken",
-      "index": 3,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#D28E62",
-      "endColor": "#8B4420",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_chicken"]
-    },
-    {
-      "name": "Cooked Rabbit",
-      "index": 4,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#D28E62",
-      "endColor": "#7A3D1C",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_rabbit"]
-    },
-    {
-      "name": "Cooked Cod",
-      "index": 5,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#D6C5AD",
-      "endColor": "#AE8B67",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_cod"]
-    },
-    {
-      "name": "Cooked Salmon",
-      "index": 6,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#BA4F23",
-      "endColor": "#5D7764",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_salmon"]
-    },
-    {
-      "name": "Cooked Crab Claw",
-      "index": 7,
-      "image": "legendarytooltips:textures/gui/cooked_meat.png",
-      "startColor": "#E25F16",
-      "endColor": "#831F07",
-      "bgStartColor": "#0C0C0C+v15",
-      "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["wilderwild:cooked_crab_claw"]
     },
     {
       "name": "Beef",
@@ -3817,6 +3697,266 @@
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
       "selectors": ["wilderwild:crab_claw"]
+    },
+    {
+      "name": "Koi Fish",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#F2773A",
+      "endColor": "#E8E4DC",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["crittersandcompanions:koi_fish"]
+    },
+    {
+      "name": "Crab",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#FCDBBA",
+      "endColor": "#D8B48C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:crab"]
+    },
+    {
+      "name": "Elephant",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#D5213F",
+      "endColor": "#A61930",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:elephant"]
+    },
+    {
+      "name": "Giraffe",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#E5726B",
+      "endColor": "#B54743",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:giraffe"]
+    },
+    {
+      "name": "Lion",
+      "index": 13,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#DE7079",
+      "endColor": "#D8515D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:lion"]
+    },
+    {
+      "name": "Ostrich",
+      "index": 14,
+      "image": "legendarytooltips:textures/gui/meat.png",
+      "startColor": "#E58989",
+      "endColor": "#E07273",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:ostrich"]
+    },
+    {
+      "name": "Cooked Beef",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "auto",
+      "endColor": "#3F2116",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_beef"]
+    },
+    {
+      "name": "Cooked Porkchop",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D3C088",
+      "endColor": "#997942",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_porkchop"]
+    },
+    {
+      "name": "Cooked Mutton",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#A3705A",
+      "endColor": "#6B3A2A",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_mutton"]
+    },
+    {
+      "name": "Cooked Chicken",
+      "index": 3,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D28E62",
+      "endColor": "#8B4420",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_chicken"]
+    },
+    {
+      "name": "Cooked Rabbit",
+      "index": 4,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D28E62",
+      "endColor": "#7A3D1C",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_rabbit"]
+    },
+    {
+      "name": "Cooked Cod",
+      "index": 5,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D6C5AD",
+      "endColor": "#AE8B67",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_cod"]
+    },
+    {
+      "name": "Cooked Salmon",
+      "index": 6,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#BA4F23",
+      "endColor": "#5D7764",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["cooked_salmon"]
+    },
+    {
+      "name": "Cooked Crab Claw",
+      "index": 7,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#E25F16",
+      "endColor": "#831F07",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["wilderwild:cooked_crab_claw"]
+    },
+    {
+      "name": "Cooked Crab",
+      "index": 8,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#D6A066",
+      "endColor": "#D68B41",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:cooked_crab"]
+    },
+    {
+      "name": "Cooked Elephant",
+      "index": 9,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#A33B28",
+      "endColor": "#7A2A1D",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:cooked_elephant"]
+    },
+    {
+      "name": "Cooked Giraffe",
+      "index": 10,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#A3542B",
+      "endColor": "#7D3D1F",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:cooked_giraffe"]
+    },
+    {
+      "name": "Cooked Lion",
+      "index": 11,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#7C4E37",
+      "endColor": "#674332",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:cooked_lion"]
+    },
+    {
+      "name": "Cooked Ostrich",
+      "index": 12,
+      "image": "legendarytooltips:textures/gui/cooked_meat.png",
+      "startColor": "#A65C43",
+      "endColor": "#A64E30",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": ["livingthings:cooked_ostrich"]
+    },
+    {
+      "name": "Rose Quartz",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
+      "startColor": "auto",
+      "endColor": "auto",
+      "bgStartColor": "auto",
+      "bgEndColor": "auto",
+      "selectors": [
+        "biomesoplenty:large_rose_quartz_bud",
+        "biomesoplenty:medium_rose_quartz_bud",
+        "biomesoplenty:rose_quartz_block",
+        "biomesoplenty:rose_quartz_chunk",
+        "biomesoplenty:rose_quartz_cluster",
+        "biomesoplenty:small_rose_quartz_bud"
+      ]
+    },
+    {
+      "name": "Flesh",
+      "index": 1,
+      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
+      "startColor": "#601F18",
+      "endColor": "#601F18",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "biomesoplenty:eyebulb",
+        "biomesoplenty:flesh",
+        "biomesoplenty:flesh_tendons",
+        "biomesoplenty:flesh_tendons_strand",
+        "biomesoplenty:hair",
+        "biomesoplenty:porous_flesh",
+        "biomesoplenty:pus_bubble",
+        "rotten_flesh"
+      ]
+    },
+    {
+      "name": "Null",
+      "index": 2,
+      "image": "legendarytooltips:textures/gui/biomesoplenty.png",
+      "startColor": "#F800F8_#000000",
+      "endColor": "#000000_#F800F8",
+      "bgStartColor": "#000000_#F800F8",
+      "bgEndColor": "#F800F8_#000000",
+      "selectors": [
+        "biomesoplenty:anomaly",
+        "biomesoplenty:liquid_null",
+        "biomesoplenty:null_block",
+        "biomesoplenty:null_block",
+        "biomesoplenty:null_end_stone",
+        "biomesoplenty:null_leaves",
+        "biomesoplenty:null_plant",
+        "wilderwild:null_block"
+      ]
+    },
+    {
+      "name": "Pearl",
+      "index": 0,
+      "image": "legendarytooltips:textures/gui/crittersandcompanions.png",
+      "startColor": "#FBFBF1",
+      "endColor": "#B4D8DD",
+      "bgStartColor": "#0C0C0C+v15",
+      "bgEndColor": "#0C0C0C+v5",
+      "selectors": [
+        "crittersandcompanions:pearl",
+        "crittersandcompanions:pearl_necklace_1",
+        "crittersandcompanions:pearl_necklace_2",
+        "crittersandcompanions:pearl_necklace_3"
+      ]
     },
     {
       "name": "Opal",

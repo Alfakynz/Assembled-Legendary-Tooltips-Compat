@@ -7,10 +7,12 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 - [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
+- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
+- [Living Things](https://modrinth.com/project/UKDLi1GJ)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
@@ -20,8 +22,6 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
-- [Living Things](https://modrinth.com/project/UKDLi1GJ)
 
 ## 📦 Installation
 
