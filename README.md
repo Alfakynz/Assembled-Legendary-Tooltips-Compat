@@ -5,23 +5,34 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 ## ✨ Compatibility
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (some blocks/items)
+- [Another Furniture](https://modrinth.com/project/ulloLmqG)
+- [Beans Backpacks](https://modrinth.com/project/o4TtgIhD)
 - [Biomes O' Plenty](https://modrinth.com/project/HXF82T3G)
 - [Comforts](https://modrinth.com/project/SaCpeal4)
+- [Copper Hopper](https://modrinth.com/project/mTI5Xg5F)
 - [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
+- [Farmer's Delight](https://modrinth.com/project/R2OftAxM) (most of foods)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
+- [Horse Expert](https://modrinth.com/project/24CSPS1E)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
 - [Living Things](https://modrinth.com/project/UKDLi1GJ)
+- [Medieval Weapons](https://modrinth.com/project/C37HUu02)
+- [NiftyCarts](https://modrinth.com/project/CXd6g9xp)
 - [Pyrellium](https://modrinth.com/project/uZWcuZ4t)
+- [Sophisticated Backpacks](https://modrinth.com/project/TyCTlI4b)
+- [Sophisticated Core](https://modrinth.com/project/nmoqTijg)
 - [Soul Candles](https://modrinth.com/project/XHXMTS5X)
 - [Useful Backpacks](https://modrinth.com/project/VLAWWg1B)
 - [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 - [Wilder Wild](https://modrinth.com/project/AtHRJSUW)
+- [Yyz's Backpack](https://modrinth.com/project/zO7tsTJN)
 
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
+- [Farmer's Delight](https://modrinth.com/project/R2OftAxM) (meats)
 
 ## 📦 Installation
 
