@@ -13,7 +13,7 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 - [Critters and Companions](https://modrinth.com/project/Yd4wb5wZ)
 - [Customizable Elytra](https://modrinth.com/project/L25fOeGq)
 - [Deeper and Darker](https://modrinth.com/project/fnAffV0n)
-- [Farmer's Delight](https://modrinth.com/project/R2OftAxM) (most of foods)
+- [Farmer's Delight](https://modrinth.com/project/R2OftAxM)
 - [Friends&Foes](https://modrinth.com/project/POQ2i9zu)
 - [Horse Expert](https://modrinth.com/project/24CSPS1E)
 - [Immersive Armors](https://modrinth.com/project/eE2Db4YU)
@@ -32,7 +32,6 @@ Crystal Tooltips adds beautiful borders to tooltips using the Legendary Tooltips
 ## 🚀 Planned Features
 
 - [Aether](https://modrinth.com/project/YhmgMVyu) (most of blocks/items)
-- [Farmer's Delight](https://modrinth.com/project/R2OftAxM) (meats)
 
 ## 📦 Installation
 

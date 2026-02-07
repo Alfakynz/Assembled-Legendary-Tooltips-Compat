@@ -2549,6 +2549,7 @@
         "soul_torch",
         "torch",
         "aether:ambrosium_torch",
+        "aether:flaming_sword",
         "friendsandfoes:wildfire_crown",
         "friendsandfoes:wildfire_crown_fragment",
         "livingthings:ancient_helmet",
@@ -2662,6 +2663,7 @@
         "totem_of_undying",
         "aether:enchanted_berry",
         "aether:healing_stone",
+        "aether:holy_sword",
         "aether:white_apple",
         "friendsandfoes:totem_of_freezing",
         "friendsandfoes:totem_of_illusion",
@@ -3497,7 +3499,7 @@
       "selectors": ["soul_sand", "soul_soil"]
     },
     {
-      "name": "Egg",
+      "name": "Eggs",
       "index": 1,
       "image": "legendarytooltips:textures/gui/minecraft_2.png",
       "startColor": "#FFFFFF",
@@ -3513,6 +3515,7 @@
         "aether:black_moa_egg",
         "aether:blue_moa_egg",
         "aether:white_moa_egg",
+        "farmersdelight:egg_sandwich",
         "farmersdelight:fried_egg",
         "friendsandfoes:crab_egg",
         "livingthings:ostrich_egg",
@@ -3572,34 +3575,21 @@
         "farmersdelight:apple_cider",
         "farmersdelight:apple_pie",
         "farmersdelight:apple_pie_slice",
-        "farmersdelight:bacon_and_eggs",
-        "farmersdelight:bacon_sandwich",
-        "farmersdelight:baked_cod_stew",
-        "farmersdelight:barbecue_stick",
-        "farmersdelight:beef_stew",
         "farmersdelight:bone_broth",
         "farmersdelight:cabbage",
         "farmersdelight:cabbage_leaf",
         "farmersdelight:cabbage_rolls",
         "farmersdelight:cake_slice",
-        "farmersdelight:chicken_sandwich",
-        "farmersdelight:chicken_soup",
         "farmersdelight:chocolate_pie",
         "farmersdelight:chocolate_pie_slice",
-        "farmersdelight:cod_roll",
         "farmersdelight:cooked_rice",
-        "farmersdelight:dog_food",
-        "farmersdelight:dumplings",
-        "farmersdelight:egg_sandwich",
-        "farmersdelight:fish_stew",
         "farmersdelight:fried_rice",
         "farmersdelight:fruit_salad",
         "farmersdelight:glow_berry_custard",
-        "farmersdelight:grilled_salmon",
-        "farmersdelight:hamburger",
         "farmersdelight:honey_cookie",
         "farmersdelight:honey_glazed_ham",
         "farmersdelight:honey_glazed_ham_block",
+        "farmersdelight:horse_feed",
         "farmersdelight:hot_cocoa",
         "farmersdelight:kelp_roll",
         "farmersdelight:kelp_roll_slice",
@@ -3608,26 +3598,16 @@
         "farmersdelight:milk_bottle",
         "farmersdelight:mixed_salad",
         "farmersdelight:mushroom_rice",
-        "farmersdelight:mutton_wrap",
         "farmersdelight:nether_salad",
         "farmersdelight:noodle_soup",
         "farmersdelight:onion",
-        "farmersdelight:pasta_with_meatballs",
-        "farmersdelight:pasta_with_mutton_chop",
         "farmersdelight:pie_crust",
         "farmersdelight:pumpkin_slice",
         "farmersdelight:pumpkin_soup",
         "farmersdelight:ratatouille",
         "farmersdelight:raw_pasta",
         "farmersdelight:rice_roll_medley_block",
-        "farmersdelight:roast_chicken",
-        "farmersdelight:roast_chicken_block",
-        "farmersdelight:roasted_mutton_chops",
-        "farmersdelight:salmon_roll",
-        "farmersdelight:shepherds_pie",
-        "farmersdelight:shepherds_pie_block",
         "farmersdelight:squid_ink_pasta",
-        "farmersdelight:steak_and_potatoes",
         "farmersdelight:stuffed_potato",
         "farmersdelight:stuffed_pumpkin",
         "farmersdelight:stuffed_pumpkin_block",
@@ -3740,7 +3720,7 @@
       "endColor": "#7B1713",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["beef"]
+      "selectors": ["beef", "farmersdelight:minced_beef"]
     },
     {
       "name": "Porkchop",
@@ -3750,7 +3730,7 @@
       "endColor": "#A75353",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["porkchop"]
+      "selectors": ["porkchop", "farmersdelight:bacon"]
     },
     {
       "name": "Mutton",
@@ -3760,7 +3740,7 @@
       "endColor": "#96211B",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["mutton"]
+      "selectors": ["mutton", "farmersdelight:mutton_chops"]
     },
     {
       "name": "Chicken",
@@ -3770,7 +3750,7 @@
       "endColor": "#B47B65",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["chicken"]
+      "selectors": ["chicken", "farmersdelight:chicken_cuts"]
     },
     {
       "name": "Rabbit",
@@ -3790,7 +3770,7 @@
       "endColor": "#986D4E",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cod"]
+      "selectors": ["cod", "farmersdelight:cod_slice"]
     },
     {
       "name": "Salmon",
@@ -3800,7 +3780,7 @@
       "endColor": "#5D7764",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["salmon"]
+      "selectors": ["salmon", "farmersdelight:salmon_slice"]
     },
     {
       "name": "Tropical",
@@ -3890,7 +3870,17 @@
       "endColor": "#3F2116",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_beef"]
+      "selectors": [
+        "cooked_beef",
+        "farmersdelight:barbecue_stick",
+        "farmersdelight:beef_patty",
+        "farmersdelight:beef_stew",
+        "farmersdelight:dog_food",
+        "farmersdelight:dumplings",
+        "farmersdelight:hamburger",
+        "farmersdelight:pasta_with_meatballs",
+        "farmersdelight:steak_and_potatoes"
+      ]
     },
     {
       "name": "Cooked Porkchop",
@@ -3900,7 +3890,12 @@
       "endColor": "#997942",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_porkchop"]
+      "selectors": [
+        "cooked_porkchop",
+        "farmersdelight:bacon_and_eggs",
+        "farmersdelight:bacon_sandwich",
+        "farmersdelight:cooked_bacon"
+      ]
     },
     {
       "name": "Cooked Mutton",
@@ -3910,7 +3905,15 @@
       "endColor": "#6B3A2A",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_mutton"]
+      "selectors": [
+        "cooked_mutton",
+        "farmersdelight:cooked_mutton_chops",
+        "farmersdelight:mutton_wrap",
+        "farmersdelight:pasta_with_mutton_chop",
+        "farmersdelight:roasted_mutton_chops",
+        "farmersdelight:shepherds_pie",
+        "farmersdelight:shepherds_pie_block"
+      ]
     },
     {
       "name": "Cooked Chicken",
@@ -3920,7 +3923,14 @@
       "endColor": "#8B4420",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_chicken"]
+      "selectors": [
+        "cooked_chicken",
+        "farmersdelight:chicken_sandwich",
+        "farmersdelight:chicken_soup",
+        "farmersdelight:cooked_chicken_cuts",
+        "farmersdelight:roast_chicken",
+        "farmersdelight:roast_chicken_block"
+      ]
     },
     {
       "name": "Cooked Rabbit",
@@ -3940,7 +3950,12 @@
       "endColor": "#AE8B67",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_cod"]
+      "selectors": [
+        "cooked_cod",
+        "farmersdelight:baked_cod_stew",
+        "farmersdelight:cod_roll",
+        "farmersdelight:cooked_cod_slice"
+      ]
     },
     {
       "name": "Cooked Salmon",
@@ -3950,7 +3965,13 @@
       "endColor": "#5D7764",
       "bgStartColor": "#0C0C0C+v15",
       "bgEndColor": "#0C0C0C+v5",
-      "selectors": ["cooked_salmon"]
+      "selectors": [
+        "cooked_salmon",
+        "farmersdelight:cooked_salmon_slice",
+        "farmersdelight:fish_stew",
+        "farmersdelight:grilled_salmon",
+        "farmersdelight:salmon_roll"
+      ]
     },
     {
       "name": "Cooked Crab Claw",
