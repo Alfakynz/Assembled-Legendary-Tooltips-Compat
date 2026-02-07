@@ -401,7 +401,15 @@
         "another_furniture:pale_oak_shelf",
         "another_furniture:pale_oak_shutter",
         "another_furniture:pale_oak_table",
+        "farmersdelight:pale_oak_cabinet",
         "friendsandfoes:pale_oak_beehive",
+        "niftycarts:pale_oak_animal_cart",
+        "niftycarts:pale_oak_hand_cart",
+        "niftycarts:pale_oak_plow",
+        "niftycarts:pale_oak_reaper",
+        "niftycarts:pale_oak_seed_drill",
+        "niftycarts:pale_oak_supply_cart",
+        "niftycarts:pale_oak_wagon",
         "wilderwild:hollowed_pale_oak_log",
         "wilderwild:stripped_hollowed_pale_oak_log"
       ]
@@ -1556,7 +1564,7 @@
       ]
     },
     {
-      "name": "Gloomslate",
+      "name": "Grime",
       "index": 7,
       "image": "legendarytooltips:textures/gui/stone_compat.png",
       "startColor": "#12272B",
@@ -3268,10 +3276,10 @@
         "tipped_arrow",
         "aether:phoenix_bow",
         "beansbackpacks:quiver",
-        "pyrellium:amethyst_arrow",
-        "pyrellium:opal_arrow",
         "medievalweapons:long_bow",
-        "medievalweapons:recurve_bow"
+        "medievalweapons:recurve_bow",
+        "pyrellium:amethyst_arrow",
+        "pyrellium:opal_arrow"
       ]
     },
     {
